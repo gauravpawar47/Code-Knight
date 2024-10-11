@@ -5,6 +5,10 @@
  */
 
 // @lc code=start
+import java.util.List;
+import java.util.ArrayList;
+import java.util.PriorityQueue;
+
 class Solution
 {
     public int smallestChair(int[][] times, int targetFriend)
