@@ -5,6 +5,8 @@
  */
 
 // @lc code=start
+import java.util.*;
+
 class Solution
 {
     public int maxKDivisibleComponents(int n, int[][] edges, int[] vals, int k)
