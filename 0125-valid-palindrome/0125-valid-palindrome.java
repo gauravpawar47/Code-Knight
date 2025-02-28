@@ -1,7 +1,25 @@
 class Solution
 {
+    public boolean isString(String s, int left, int right)
+    {
+        // Step 1 : Base-Case
+        if(left >= right)
+        {
+            return true;
+        }
+
+        // Step 2 : Kaam
+        if(s.charAt(left) != s.charAt(right))
+        {
+            return false;
+        }
+
+        // Step 3 : Inner Function Call
+        return isString(s, left + 1, right - 1);
+    }
+
     public boolean isPalindrome(String s)
-    {    
+    {
         StringBuilder sb = new StringBuilder();
         s = s.toLowerCase();
 
@@ -12,20 +30,7 @@ class Solution
                 sb.append(s.charAt(i));
             }
         }
-
-        int left = 0;
-        int right = sb.length() - 1;
-        while(left <= right)
-        {
-            if(sb.charAt(left) != sb.charAt(right))
-            {
-                return false;
-            }
-
-            left++;
-            right--;
-        }
-
-        return true;
+        
+        return isString(sb.toString().toLowerCase(), 0, sb.length() - 1);
     }
 }
