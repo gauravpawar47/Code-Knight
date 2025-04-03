@@ -11,7 +11,7 @@ class Solution
         long maxTriplet = Long.MIN_VALUE;
         for(int i = 0; i < n - 2; i++)
         {
-            for(int j = i + 1; j < n - 2; j++)
+            for(int j = i + 1; j < n - 1; j++)
             {
                 long diff = (long) nums[i] - nums[j];
                 long maxK = Long.MIN_VALUE;
