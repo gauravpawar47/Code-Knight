@@ -1,54 +1,42 @@
-class MyQueue
+class MyQueue 
 {
     Stack<Integer> stack;
+    Stack<Integer> helper;
+
     public MyQueue() 
     {
-        stack = new Stack<>();
+        stack = new Stack();        
+        helper = new Stack();        
     }
     
-    public void push(int x)
+    public void push(int x) 
     {
-        stack.push(x);
-    }
-    
-    public int pop()
-    {
-        // Step 1 : Base-Case
-        int x = stack.pop();
-        if(stack.isEmpty())
+        while(!stack.isEmpty())
         {
-            return x;
-        }
-
-        // Step 2 : Recursive Call
-        int data = pop();
-
-        // Step 3 : Kaam
-        stack.push(x);
-        return data;
-    }
-    
-    public int peek()
-    {
-        // Step 1 : Base-Case
-        int x = stack.pop();
-        if(stack.isEmpty())
-        {
-            stack.push(x);
-            return x;
+            helper.push(stack.pop());
         }    
 
-        // Step 2 : Recursive Call
-        int peek = peek();
-
-        // Step 3 : Kaam
         stack.push(x);
-        return peek;
+
+        while(!helper.isEmpty())
+        {
+            stack.push(helper.pop());
+        }
     }
     
-    public boolean empty()
+    public int pop() 
     {
-        return stack.isEmpty();    
+        return empty() ? -1 : stack.pop();
+    }
+    
+    public int peek() 
+    {
+        return empty() ? -1 : stack.peek();    
+    }
+    
+    public boolean empty() 
+    {
+        return stack.isEmpty();   
     }
 }
 
