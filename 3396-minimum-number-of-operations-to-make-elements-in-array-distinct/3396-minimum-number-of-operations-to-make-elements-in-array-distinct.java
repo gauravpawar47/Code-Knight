@@ -1,25 +1,35 @@
 class Solution 
-{
+{   
+    public boolean hasDuplicates(int[] nums, int start)
+    {
+        int[] freq = new int[101];
+        for(int i = start; i < nums.length; i++)
+        {
+            if(freq[nums[i]] == 1)
+            {
+                return false;
+            }
+
+            freq[nums[i]]++;
+        }
+
+        return true;
+    }
+
     public int minimumOperations(int[] nums) 
     {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        for (int num : nums) 
+        int op = 0;
+        int i = 0;
+        while(i < nums.length)
         {
-            map.put(num, map.getOrDefault(num, 0) + 1);
-        }    
-
-        HashSet<Integer> seen = new HashSet<>();
-        int operations = 0;
-        for (int i = nums.length - 1; i >= 0; i--) 
-        {
-            if (seen.contains(nums[i])) 
+            if(hasDuplicates(nums, i))
             {
-                operations = (i / 3) + 1;
                 break;
             }
-            seen.add(nums[i]);
+
+            op++;
+            i += 3;
         }
-        
-        return operations;
+        return op;
     }
 }
