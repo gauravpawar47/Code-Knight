@@ -1,4 +1,4 @@
- class Solution
+class Solution
 {
     public long MOD = 1_000_000_007;
 
