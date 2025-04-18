@@ -3,14 +3,14 @@ class Solution
     public int findKthPositive(int[] arr, int k) 
     {
         int expected = 1;   // Start checking from 1 (smallest positive number)
-        int index = 0;      // Pointer for arr[]
+        int idx = 0;      // Pointer for arr[]
         
         while (k > 0) 
         {
             // If expected number is present in array, skip it
-            if (index < arr.length && arr[index] == expected) 
+            if (idx < arr.length && arr[idx] == expected) 
             {
-                index++;
+                idx++;
             } 
             else 
             {
