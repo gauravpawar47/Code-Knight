@@ -7,4 +7,8 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/gauravpawar47/Code-Knight/tree/master/0038-count-and-say) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/gauravpawar47/Code-Knight/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
