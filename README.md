@@ -21,6 +21,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0357-count-numbers-with-unique-digits](https://github.com/gauravpawar47/Code-Knight/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/gauravpawar47/Code-Knight/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/gauravpawar47/Code-Knight/tree/master/0526-beautiful-arrangement) |
+| [0813-all-paths-from-source-to-target](https://github.com/gauravpawar47/Code-Knight/tree/master/0813-all-paths-from-source-to-target) |
 ## Tree
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0113-path-sum-ii) |
+| [0813-all-paths-from-source-to-target](https://github.com/gauravpawar47/Code-Knight/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
 | ------- |
@@ -60,4 +62,12 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/gauravpawar47/Code-Knight/tree/master/0526-beautiful-arrangement) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/gauravpawar47/Code-Knight/tree/master/0813-all-paths-from-source-to-target) |
+## Graph
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/gauravpawar47/Code-Knight/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
