@@ -21,6 +21,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0046-permutations](https://github.com/gauravpawar47/Code-Knight/tree/master/0046-permutations) |
+| [0052-n-queens-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/gauravpawar47/Code-Knight/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0113-path-sum-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/gauravpawar47/Code-Knight/tree/master/0357-count-numbers-with-unique-digits) |
