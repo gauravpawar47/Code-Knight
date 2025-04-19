@@ -1,24 +1,27 @@
 class Solution 
 {
-    public static void findSubsets(int[] nums, int i, List<List<Integer>> result, ArrayList<Integer> current)
+    public void backtrack(int[] nums, int i, List<Integer> curr, List<List<Integer>> result)
     {
         // Step 1 : Base-Case
         if(i == nums.length)
-        {
-            result.add(new ArrayList<>(current));
+        { 
+            result.add(new ArrayList<>(curr));
             return;
         }
 
-        findSubsets(nums, i + 1, result, current);
-        current.add(nums[i]);
-        findSubsets(nums, i + 1, result, current);
-        current.remove(current.size() - 1);
+        // Step 2 : Kaam & Inner Function Call  
+        backtrack(nums, i + 1, curr, result);
+        curr.add(nums[i]);
+        backtrack(nums, i + 1, curr, result);
+
+        // Step 3 : Backtrack Step
+        curr.remove(curr.size() - 1);
     }
 
     public List<List<Integer>> subsets(int[] nums) 
     {
         List<List<Integer>> result = new ArrayList<>();
-        findSubsets(nums, 0, result, new ArrayList<Integer>());       
-        return result;
+        backtrack(nums, 0, new ArrayList<>(), result);
+        return result;    
     }
 }
