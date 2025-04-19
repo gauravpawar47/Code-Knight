@@ -1,8 +1,7 @@
 class Solution 
 {
-    public int count = 0;
-
-    public static boolean isSafe(char[][] board, int row, int col)
+    int count = 0;
+    public boolean isSafe(char[][] board, int row, int col)
     {
         // Step 1 : Vertically Up
         for(int i = row - 1; i >= 0; i--)
@@ -13,8 +12,8 @@ class Solution
             }
         }
 
-        // Step 2 : Vertically Diagonally Left
-        for(int i = row - 1, j = col -1; i >= 0 && j >= 0; i--, j--)
+        // Step 2 : Vertically Diagonal Left
+        for(int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--)
         {
             if(board[i][j] == 'Q')
             {
@@ -22,7 +21,7 @@ class Solution
             }
         }
 
-        // Step 3 : Vertically Diagonally Right
+        // Step 3 : Vertically Diagonal Right 
         for(int i = row - 1, j = col + 1; i >= 0 && j < board.length; i--, j++)
         {
             if(board[i][j] == 'Q')
@@ -34,7 +33,7 @@ class Solution
         return true;
     }
 
-    public void nQueens(char[][] board, int row)
+    public void nQueen(char[][] board, int row)
     {
         // Step 1 : Base-Case
         if(row == board.length)
@@ -51,9 +50,9 @@ class Solution
                 board[row][j] = 'Q';
 
                 // Step 3 : Inner Function Call
-                nQueens(board, row + 1);
+                nQueen(board, row + 1);
 
-                // Step 4 : Backtrack Step
+                // Step 4 : Backtrack
                 board[row][j] = '.';
             }
         }
@@ -62,12 +61,12 @@ class Solution
     public int totalNQueens(int n) 
     {
         char[][] board = new char[n][n];
-        for(char[] current : board)
+        for(char[] row : board)
         {
-            Arrays.fill(current, '.');
+            Arrays.fill(row, '.');
         }
 
-        nQueens(board, 0);
+        nQueen(board, 0);
         return count;
     }
 }
