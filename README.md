@@ -52,6 +52,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0491-non-decreasing-subsequences](https://github.com/gauravpawar47/Code-Knight/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/gauravpawar47/Code-Knight/tree/master/0526-beautiful-arrangement) |
 | [0777-toeplitz-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0777-toeplitz-matrix) |
+| [0797-rabbits-in-forest](https://github.com/gauravpawar47/Code-Knight/tree/master/0797-rabbits-in-forest) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/gauravpawar47/Code-Knight/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1646-kth-missing-positive-number](https://github.com/gauravpawar47/Code-Knight/tree/master/1646-kth-missing-positive-number) |
 | [2350-find-closest-number-to-zero](https://github.com/gauravpawar47/Code-Knight/tree/master/2350-find-closest-number-to-zero) |
@@ -69,6 +70,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/gauravpawar47/Code-Knight/tree/master/0357-count-numbers-with-unique-digits) |
+| [0797-rabbits-in-forest](https://github.com/gauravpawar47/Code-Knight/tree/master/0797-rabbits-in-forest) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/gauravpawar47/Code-Knight/tree/master/0491-non-decreasing-subsequences) |
+| [0797-rabbits-in-forest](https://github.com/gauravpawar47/Code-Knight/tree/master/0797-rabbits-in-forest) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/gauravpawar47/Code-Knight/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 ## Bitmask
 |  |
@@ -109,5 +112,6 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 ## Greedy
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/gauravpawar47/Code-Knight/tree/master/0797-rabbits-in-forest) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/gauravpawar47/Code-Knight/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 <!---LeetCode Topics End-->
