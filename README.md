@@ -62,6 +62,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2915-count-of-interesting-subarrays) |
 | [3330-modify-the-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/3330-modify-the-matrix) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/gauravpawar47/Code-Knight/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Matrix
 |  |
 | ------- |
