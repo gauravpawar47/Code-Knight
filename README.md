@@ -92,6 +92,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0063-unique-paths-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0063-unique-paths-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/gauravpawar47/Code-Knight/tree/master/0357-count-numbers-with-unique-digits) |
 | [0526-beautiful-arrangement](https://github.com/gauravpawar47/Code-Knight/tree/master/0526-beautiful-arrangement) |
+| [0806-domino-and-tromino-tiling](https://github.com/gauravpawar47/Code-Knight/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/gauravpawar47/Code-Knight/tree/master/0868-push-dominoes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Hash Table
