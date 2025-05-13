@@ -9,6 +9,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0038-count-and-say](https://github.com/gauravpawar47/Code-Knight/tree/master/0038-count-and-say) |
 | [0800-letter-case-permutation](https://github.com/gauravpawar47/Code-Knight/tree/master/0800-letter-case-permutation) |
 | [0868-push-dominoes](https://github.com/gauravpawar47/Code-Knight/tree/master/0868-push-dominoes) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/gauravpawar47/Code-Knight/tree/master/3637-count-number-of-balanced-permutations) |
 ## Bit Manipulation
 |  |
@@ -95,6 +96,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1500-count-largest-group](https://github.com/gauravpawar47/Code-Knight/tree/master/1500-count-largest-group) |
 | [1806-count-of-matches-in-tournament](https://github.com/gauravpawar47/Code-Knight/tree/master/1806-count-of-matches-in-tournament) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/gauravpawar47/Code-Knight/tree/master/3637-count-number-of-balanced-permutations) |
 ## Dynamic Programming
 |  |
@@ -105,6 +107,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0806-domino-and-tromino-tiling](https://github.com/gauravpawar47/Code-Knight/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/gauravpawar47/Code-Knight/tree/master/0868-push-dominoes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/gauravpawar47/Code-Knight/tree/master/3637-count-number-of-balanced-permutations) |
 ## Hash Table
 |  |
@@ -117,6 +120,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2215-finding-3-digit-even-numbers](https://github.com/gauravpawar47/Code-Knight/tree/master/2215-finding-3-digit-even-numbers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2915-count-of-interesting-subarrays) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Bitmask
 |  |
 | ------- |
@@ -196,6 +200,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
