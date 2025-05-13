@@ -1,8 +1,20 @@
-class Solution
+class Solution 
 {
-    public int findKthLargest(int[] nums, int k)
+    public int findKthLargest(int[] nums, int k) 
     {
-        Arrays.sort(nums);
-        return nums[nums.length - 1 - k + 1];
+        PriorityQueue<Integer> pq = new PriorityQueue<>((a, b) -> b - a); 
+
+        for(int n : nums)
+        {
+            pq.add(n);
+        }
+
+        while(k > 1)
+        {
+            pq.remove();
+            k--;
+        }
+
+        return pq.peek();
     }
 }
