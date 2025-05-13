@@ -51,6 +51,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0046-permutations](https://github.com/gauravpawar47/Code-Knight/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/gauravpawar47/Code-Knight/tree/master/0078-subsets) |
+| [0215-kth-largest-element-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/gauravpawar47/Code-Knight/tree/master/0283-move-zeroes) |
 | [0491-non-decreasing-subsequences](https://github.com/gauravpawar47/Code-Knight/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/gauravpawar47/Code-Knight/tree/master/0526-beautiful-arrangement) |
@@ -151,6 +152,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0215-kth-largest-element-in-an-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/gauravpawar47/Code-Knight/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gauravpawar47/Code-Knight/tree/master/2215-finding-3-digit-even-numbers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -204,6 +206,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0215-kth-largest-element-in-an-array) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
@@ -215,4 +218,12 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/gauravpawar47/Code-Knight/tree/master/2215-finding-3-digit-even-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
