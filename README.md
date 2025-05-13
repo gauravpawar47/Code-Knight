@@ -20,6 +20,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0491-non-decreasing-subsequences](https://github.com/gauravpawar47/Code-Knight/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/gauravpawar47/Code-Knight/tree/master/0526-beautiful-arrangement) |
 | [0800-letter-case-permutation](https://github.com/gauravpawar47/Code-Knight/tree/master/0800-letter-case-permutation) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/gauravpawar47/Code-Knight/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/gauravpawar47/Code-Knight/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
@@ -66,6 +67,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1293-three-consecutive-odds](https://github.com/gauravpawar47/Code-Knight/tree/master/1293-three-consecutive-odds) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/gauravpawar47/Code-Knight/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gauravpawar47/Code-Knight/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/gauravpawar47/Code-Knight/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1646-kth-missing-positive-number](https://github.com/gauravpawar47/Code-Knight/tree/master/1646-kth-missing-positive-number) |
 | [2048-build-array-from-permutation](https://github.com/gauravpawar47/Code-Knight/tree/master/2048-build-array-from-permutation) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -162,6 +164,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gauravpawar47/Code-Knight/tree/master/0347-top-k-frequent-elements) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/gauravpawar47/Code-Knight/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/gauravpawar47/Code-Knight/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -214,6 +217,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/gauravpawar47/Code-Knight/tree/master/0347-top-k-frequent-elements) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/gauravpawar47/Code-Knight/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Heap (Priority Queue)
 |  |
