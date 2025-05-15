@@ -19,6 +19,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2365-percentage-of-letter-in-string](https://github.com/gauravpawar47/Code-Knight/tree/master/2365-percentage-of-letter-in-string) |
 | [2378-sender-with-largest-word-count](https://github.com/gauravpawar47/Code-Knight/tree/master/2378-sender-with-largest-word-count) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/gauravpawar47/Code-Knight/tree/master/3637-count-number-of-balanced-permutations) |
@@ -184,6 +185,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2486-most-frequent-even-element](https://github.com/gauravpawar47/Code-Knight/tree/master/2486-most-frequent-even-element) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2915-count-of-interesting-subarrays) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Bitmask
@@ -279,6 +281,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gauravpawar47/Code-Knight/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gauravpawar47/Code-Knight/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Queue
 |  |
 | ------- |
