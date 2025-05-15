@@ -7,6 +7,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/gauravpawar47/Code-Knight/tree/master/0038-count-and-say) |
+| [0076-minimum-window-substring](https://github.com/gauravpawar47/Code-Knight/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/gauravpawar47/Code-Knight/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravpawar47/Code-Knight/tree/master/0451-sort-characters-by-frequency) |
@@ -150,6 +151,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/gauravpawar47/Code-Knight/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/gauravpawar47/Code-Knight/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/gauravpawar47/Code-Knight/tree/master/0242-valid-anagram) |
@@ -262,6 +264,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/gauravpawar47/Code-Knight/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gauravpawar47/Code-Knight/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2856-count-complete-subarrays-in-an-array) |
