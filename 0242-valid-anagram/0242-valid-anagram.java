@@ -1,26 +1,19 @@
-class Solution
+class Solution 
 {
-    public boolean isAnagram(String s, String t)
+    public boolean isAnagram(String s, String t) 
     {
-        if(s.length() != t.length())
+        HashMap<Character, Integer> map1 = new HashMap<>();
+        for(char c : s.toCharArray())
         {
-            return false;
+            map1.put(c, map1.getOrDefault(c, 0) + 1);
         }
 
-        char[] s1 = s.toCharArray();    
-        char[] s2 = t.toCharArray();    
-    
-        Arrays.sort(s1);
-        Arrays.sort(s2);
-
-        for(int i = 0; i < s1.length; i++)
+        HashMap<Character, Integer> map2 = new HashMap<>();
+        for(char c : t.toCharArray())
         {
-            if(s1[i] != s2[i])
-            {
-                return false;
-            }
+            map2.put(c, map2.getOrDefault(c, 0) + 1);
         }
 
-        return true;
+        return map1.equals(map2) && t.length() == s.length();
     }
 }
