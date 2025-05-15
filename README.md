@@ -63,6 +63,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0046-permutations](https://github.com/gauravpawar47/Code-Knight/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/gauravpawar47/Code-Knight/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/gauravpawar47/Code-Knight/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/gauravpawar47/Code-Knight/tree/master/0128-longest-consecutive-sequence) |
@@ -140,6 +141,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/gauravpawar47/Code-Knight/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0063-unique-paths-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/gauravpawar47/Code-Knight/tree/master/0357-count-numbers-with-unique-digits) |
 | [0526-beautiful-arrangement](https://github.com/gauravpawar47/Code-Knight/tree/master/0526-beautiful-arrangement) |
@@ -327,6 +329,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gauravpawar47/Code-Knight/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/gauravpawar47/Code-Knight/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/gauravpawar47/Code-Knight/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gauravpawar47/Code-Knight/tree/master/0347-top-k-frequent-elements) |
