@@ -5,7 +5,7 @@ class Node
 
     public Node()
     {
-        for(int i = 0; i < child.length; i++)
+        for(int i = 0; i < 26; i++)
         {
             child[i] = null;
         }
@@ -17,7 +17,7 @@ class Trie
     Node root;
     public Trie() 
     {
-        root = new Node();
+        root = new Node();    
     }
     
     public void insert(String word) 
@@ -33,7 +33,7 @@ class Trie
 
             curr = curr.child[idx];
         }    
-        
+
         curr.eow = true;
     }
     
