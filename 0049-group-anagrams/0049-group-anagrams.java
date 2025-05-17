@@ -1,25 +1,79 @@
-class Solution
+class Solution 
 {
-    public List<List<String>> groupAnagrams(String[] strs)
+    public class Node
     {
-        List<List<String>> result = new ArrayList<>();
-        HashMap<String, ArrayList<String>> map = new HashMap<>();
+        Node[] child = new Node[26];
+        boolean eow = false;
+        List<String> anagrams = new ArrayList<>();
 
-        for(String s : strs)
+        public Node()
         {
-            char[] str = s.toCharArray();
-            Arrays.sort(str);
-            String sorted = new String(str);
-
-            if(!map.containsKey(sorted))
+            for(int i = 0; i < 26; i++)
             {
-                map.put(sorted, new ArrayList<>());
+                child[i] = null;
+            }
+        }
+    }
+
+    public Node root = new Node();
+    public void insert(String word)
+    {
+        char[] c = word.toCharArray();
+        Arrays.sort(c);
+        String sorted = new String(c);
+
+        Node curr = root;
+        for(int i = 0; i < sorted.length(); i++)
+        {
+            int idx = sorted.charAt(i) - 'a';
+            if(curr.child[idx] == null)
+            {
+                curr.child[idx] = new Node();
             }
 
-            map.get(sorted).add(s);
-        }       
+            curr = curr.child[idx];
+        }
 
-        result.addAll(map.values());
+        curr.eow = true;
+        curr.anagrams.add(word);
+    }
+
+    public void collectAnagrams(Node root, List<List<String>> result)
+    {
+        if(root == null)
+        {
+            return;
+        }
+
+        if(root.eow && !root.anagrams.isEmpty())
+        {
+            result.add(new ArrayList<>(root.anagrams));
+        }
+
+        for(int i = 0; i < 26; i++)
+        {
+            if(root.child[i] != null)
+            {
+                collectAnagrams(root.child[i], result);
+            }
+        }
+    }
+
+    public List<List<String>> groupAnagram(Node root, String[] arr)
+    {
+        for(String s : arr)
+        {
+            insert(s);
+        }
+
+        List<List<String>> result = new ArrayList<>();
+        collectAnagrams(root, result);
+        return result;
+    }
+
+    public List<List<String>> groupAnagrams(String[] str) 
+    {
+        List<List<String>> result = groupAnagram(root, str);        
         return result;
     }
 }
