@@ -15,6 +15,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0438-find-all-anagrams-in-a-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravpawar47/Code-Knight/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/gauravpawar47/Code-Knight/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/gauravpawar47/Code-Knight/tree/master/0720-longest-word-in-dictionary) |
 | [0800-letter-case-permutation](https://github.com/gauravpawar47/Code-Knight/tree/master/0800-letter-case-permutation) |
 | [0868-push-dominoes](https://github.com/gauravpawar47/Code-Knight/tree/master/0868-push-dominoes) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauravpawar47/Code-Knight/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -85,6 +86,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0526-beautiful-arrangement](https://github.com/gauravpawar47/Code-Knight/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/gauravpawar47/Code-Knight/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/gauravpawar47/Code-Knight/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/gauravpawar47/Code-Knight/tree/master/0720-longest-word-in-dictionary) |
 | [0777-toeplitz-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0777-toeplitz-matrix) |
 | [0797-rabbits-in-forest](https://github.com/gauravpawar47/Code-Knight/tree/master/0797-rabbits-in-forest) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/gauravpawar47/Code-Knight/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -182,6 +184,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0491-non-decreasing-subsequences](https://github.com/gauravpawar47/Code-Knight/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/gauravpawar47/Code-Knight/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/gauravpawar47/Code-Knight/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/gauravpawar47/Code-Knight/tree/master/0720-longest-word-in-dictionary) |
 | [0797-rabbits-in-forest](https://github.com/gauravpawar47/Code-Knight/tree/master/0797-rabbits-in-forest) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/gauravpawar47/Code-Knight/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -245,6 +248,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0349-intersection-of-two-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravpawar47/Code-Knight/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/gauravpawar47/Code-Knight/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/gauravpawar47/Code-Knight/tree/master/0720-longest-word-in-dictionary) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/gauravpawar47/Code-Knight/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauravpawar47/Code-Knight/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/gauravpawar47/Code-Knight/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -395,6 +399,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0139-word-break](https://github.com/gauravpawar47/Code-Knight/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/0208-implement-trie-prefix-tree) |
 | [0692-top-k-frequent-words](https://github.com/gauravpawar47/Code-Knight/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/gauravpawar47/Code-Knight/tree/master/0720-longest-word-in-dictionary) |
 ## Union Find
 |  |
 | ------- |
