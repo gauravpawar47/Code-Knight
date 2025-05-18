@@ -60,6 +60,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | ------- |
 | [0113-path-sum-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0113-path-sum-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/gauravpawar47/Code-Knight/tree/master/0813-all-paths-from-source-to-target) |
+| [0871-keys-and-rooms](https://github.com/gauravpawar47/Code-Knight/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
 |  |
 | ------- |
@@ -213,11 +214,13 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/gauravpawar47/Code-Knight/tree/master/0813-all-paths-from-source-to-target) |
+| [0871-keys-and-rooms](https://github.com/gauravpawar47/Code-Knight/tree/master/0871-keys-and-rooms) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/gauravpawar47/Code-Knight/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 ## Graph
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/gauravpawar47/Code-Knight/tree/master/0813-all-paths-from-source-to-target) |
+| [0871-keys-and-rooms](https://github.com/gauravpawar47/Code-Knight/tree/master/0871-keys-and-rooms) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/gauravpawar47/Code-Knight/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
