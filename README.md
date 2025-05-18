@@ -59,6 +59,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0113-path-sum-ii) |
+| [0547-number-of-provinces](https://github.com/gauravpawar47/Code-Knight/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/gauravpawar47/Code-Knight/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/gauravpawar47/Code-Knight/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
@@ -214,12 +215,14 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/gauravpawar47/Code-Knight/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/gauravpawar47/Code-Knight/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/gauravpawar47/Code-Knight/tree/master/0871-keys-and-rooms) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/gauravpawar47/Code-Knight/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/gauravpawar47/Code-Knight/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/gauravpawar47/Code-Knight/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/gauravpawar47/Code-Knight/tree/master/0871-keys-and-rooms) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/gauravpawar47/Code-Knight/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -411,6 +414,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/gauravpawar47/Code-Knight/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/gauravpawar47/Code-Knight/tree/master/0547-number-of-provinces) |
 | [1706-min-cost-to-connect-all-points](https://github.com/gauravpawar47/Code-Knight/tree/master/1706-min-cost-to-connect-all-points) |
 ## Memoization
 |  |
