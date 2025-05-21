@@ -75,6 +75,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0049-group-anagrams](https://github.com/gauravpawar47/Code-Knight/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/gauravpawar47/Code-Knight/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/gauravpawar47/Code-Knight/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/gauravpawar47/Code-Knight/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/gauravpawar47/Code-Knight/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/gauravpawar47/Code-Knight/tree/master/0128-longest-consecutive-sequence) |
@@ -138,6 +139,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/gauravpawar47/Code-Knight/tree/master/0073-set-matrix-zeroes) |
 | [0777-toeplitz-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0777-toeplitz-matrix) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/gauravpawar47/Code-Knight/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/2398-check-if-matrix-is-x-matrix) |
@@ -178,6 +180,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/gauravpawar47/Code-Knight/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/gauravpawar47/Code-Knight/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/gauravpawar47/Code-Knight/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/gauravpawar47/Code-Knight/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/gauravpawar47/Code-Knight/tree/master/0139-word-break) |
