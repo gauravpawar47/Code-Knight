@@ -1,34 +1,47 @@
-class Solution
+class Solution 
 {
-    public void setZeroes(int[][] matrix)
+    public void setZeroes(int[][] matrix) 
     {
-        ArrayList<int[]> list = new ArrayList<>();
         int m = matrix.length;
         int n = matrix[0].length;
 
-        for(int i = 0; i < m; i++)
+        boolean[] row = new boolean[m]; // Step 1: Row markers
+        boolean[] col = new boolean[n]; // Step 1: Column markers
+
+        // Step 2: Mark rows and columns with zeros
+        for(int i = 0; i < m; i++) 
         {
-            for(int j = 0; j < n; j++)
+            for(int j = 0; j < n; j++) 
             {
-                if(matrix[i][j] == 0)
+                if(matrix[i][j] == 0) 
                 {
-                    list.add(new int[]{i, j});
+                    row[i] = true;
+                    col[j] = true;
                 }
             }
-        }    
+        }
 
-        for(int[] index : list)
+        // Step 3: Set entire rows to zero
+        for(int i = 0; i < m; i++) 
         {
-            int row = index[0];
-            int col = index[1];
-            for(int j = 0; j < n; j++)
+            if(row[i]) 
             {
-                matrix[row][j] = 0;
+                for(int j = 0; j < n; j++) 
+                {
+                    matrix[i][j] = 0;
+                }
             }
+        }
 
-            for(int i = 0; i < m; i++)
+        // Step 4: Set entire columns to zero
+        for(int j = 0; j < n; j++) 
+        {
+            if(col[j]) 
             {
-                matrix[i][col] = 0;
+                for(int i = 0; i < m; i++) 
+                {
+                    matrix[i][j] = 0;
+                }
             }
         }
     }
