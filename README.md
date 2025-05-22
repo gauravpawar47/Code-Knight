@@ -61,6 +61,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | ------- |
 | [0113-path-sum-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0113-path-sum-ii) |
 | [0547-number-of-provinces](https://github.com/gauravpawar47/Code-Knight/tree/master/0547-number-of-provinces) |
+| [0754-cracking-the-safe](https://github.com/gauravpawar47/Code-Knight/tree/master/0754-cracking-the-safe) |
 | [0813-all-paths-from-source-to-target](https://github.com/gauravpawar47/Code-Knight/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/gauravpawar47/Code-Knight/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
@@ -231,6 +232,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/gauravpawar47/Code-Knight/tree/master/0547-number-of-provinces) |
+| [0754-cracking-the-safe](https://github.com/gauravpawar47/Code-Knight/tree/master/0754-cracking-the-safe) |
 | [0813-all-paths-from-source-to-target](https://github.com/gauravpawar47/Code-Knight/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/gauravpawar47/Code-Knight/tree/master/0871-keys-and-rooms) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/gauravpawar47/Code-Knight/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -435,4 +437,8 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/gauravpawar47/Code-Knight/tree/master/1706-min-cost-to-connect-all-points) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0754-cracking-the-safe](https://github.com/gauravpawar47/Code-Knight/tree/master/0754-cracking-the-safe) |
 <!---LeetCode Topics End-->
