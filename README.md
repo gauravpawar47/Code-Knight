@@ -165,6 +165,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/gauravpawar47/Code-Knight/tree/master/3637-count-number-of-balanced-permutations) |
+| [3830-find-closest-person](https://github.com/gauravpawar47/Code-Knight/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/gauravpawar47/Code-Knight/tree/master/3859-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
