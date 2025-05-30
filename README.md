@@ -73,6 +73,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0754-cracking-the-safe](https://github.com/gauravpawar47/Code-Knight/tree/master/0754-cracking-the-safe) |
 | [0813-all-paths-from-source-to-target](https://github.com/gauravpawar47/Code-Knight/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/gauravpawar47/Code-Knight/tree/master/0871-keys-and-rooms) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/gauravpawar47/Code-Knight/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -268,6 +269,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/gauravpawar47/Code-Knight/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/gauravpawar47/Code-Knight/tree/master/1706-min-cost-to-connect-all-points) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/gauravpawar47/Code-Knight/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/gauravpawar47/Code-Knight/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Two Pointers
