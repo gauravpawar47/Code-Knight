@@ -106,6 +106,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0720-longest-word-in-dictionary](https://github.com/gauravpawar47/Code-Knight/tree/master/0720-longest-word-in-dictionary) |
 | [0777-toeplitz-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0777-toeplitz-matrix) |
 | [0797-rabbits-in-forest](https://github.com/gauravpawar47/Code-Knight/tree/master/0797-rabbits-in-forest) |
+| [0945-snakes-and-ladders](https://github.com/gauravpawar47/Code-Knight/tree/master/0945-snakes-and-ladders) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/gauravpawar47/Code-Knight/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/gauravpawar47/Code-Knight/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/gauravpawar47/Code-Knight/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -160,6 +161,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0063-unique-paths-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/gauravpawar47/Code-Knight/tree/master/0073-set-matrix-zeroes) |
 | [0777-toeplitz-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0777-toeplitz-matrix) |
+| [0945-snakes-and-ladders](https://github.com/gauravpawar47/Code-Knight/tree/master/0945-snakes-and-ladders) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/gauravpawar47/Code-Knight/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [3330-modify-the-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/3330-modify-the-matrix) |
@@ -256,6 +258,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0547-number-of-provinces](https://github.com/gauravpawar47/Code-Knight/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/gauravpawar47/Code-Knight/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/gauravpawar47/Code-Knight/tree/master/0871-keys-and-rooms) |
+| [0945-snakes-and-ladders](https://github.com/gauravpawar47/Code-Knight/tree/master/0945-snakes-and-ladders) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/gauravpawar47/Code-Knight/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
