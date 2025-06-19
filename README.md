@@ -152,6 +152,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2398-check-if-matrix-is-x-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2486-most-frequent-even-element](https://github.com/gauravpawar47/Code-Knight/tree/master/2486-most-frequent-even-element) |
+| [2633-minimum-cost-to-split-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -221,6 +222,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/gauravpawar47/Code-Knight/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/gauravpawar47/Code-Knight/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2633-minimum-cost-to-split-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2633-minimum-cost-to-split-an-array) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/gauravpawar47/Code-Knight/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -265,6 +267,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2421-maximum-number-of-pairs-in-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2486-most-frequent-even-element](https://github.com/gauravpawar47/Code-Knight/tree/master/2486-most-frequent-even-element) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gauravpawar47/Code-Knight/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2633-minimum-cost-to-split-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2915-count-of-interesting-subarrays) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gauravpawar47/Code-Knight/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -439,6 +442,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2378-sender-with-largest-word-count](https://github.com/gauravpawar47/Code-Knight/tree/master/2378-sender-with-largest-word-count) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2486-most-frequent-even-element](https://github.com/gauravpawar47/Code-Knight/tree/master/2486-most-frequent-even-element) |
+| [2633-minimum-cost-to-split-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2633-minimum-cost-to-split-an-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
