@@ -144,6 +144,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2331-intersection-of-multiple-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2331-intersection-of-multiple-arrays) |
 | [2350-find-closest-number-to-zero](https://github.com/gauravpawar47/Code-Knight/tree/master/2350-find-closest-number-to-zero) |
 | [2378-sender-with-largest-word-count](https://github.com/gauravpawar47/Code-Knight/tree/master/2378-sender-with-largest-word-count) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravpawar47/Code-Knight/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gauravpawar47/Code-Knight/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -339,6 +340,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2215-finding-3-digit-even-numbers](https://github.com/gauravpawar47/Code-Knight/tree/master/2215-finding-3-digit-even-numbers) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/gauravpawar47/Code-Knight/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2331-intersection-of-multiple-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2331-intersection-of-multiple-arrays) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravpawar47/Code-Knight/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/gauravpawar47/Code-Knight/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/gauravpawar47/Code-Knight/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -359,6 +361,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/gauravpawar47/Code-Knight/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gauravpawar47/Code-Knight/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravpawar47/Code-Knight/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gauravpawar47/Code-Knight/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/gauravpawar47/Code-Knight/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
