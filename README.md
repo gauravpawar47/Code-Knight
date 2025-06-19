@@ -44,6 +44,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/gauravpawar47/Code-Knight/tree/master/0078-subsets) |
+| [0397-integer-replacement](https://github.com/gauravpawar47/Code-Knight/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/gauravpawar47/Code-Knight/tree/master/0461-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/gauravpawar47/Code-Knight/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/gauravpawar47/Code-Knight/tree/master/0526-beautiful-arrangement) |
@@ -216,6 +217,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0119-pascals-triangle-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/gauravpawar47/Code-Knight/tree/master/0139-word-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/gauravpawar47/Code-Knight/tree/master/0357-count-numbers-with-unique-digits) |
+| [0397-integer-replacement](https://github.com/gauravpawar47/Code-Knight/tree/master/0397-integer-replacement) |
 | [0526-beautiful-arrangement](https://github.com/gauravpawar47/Code-Knight/tree/master/0526-beautiful-arrangement) |
 | [0747-min-cost-climbing-stairs](https://github.com/gauravpawar47/Code-Knight/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/gauravpawar47/Code-Knight/tree/master/0806-domino-and-tromino-tiling) |
@@ -363,6 +365,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0135-candy](https://github.com/gauravpawar47/Code-Knight/tree/master/0135-candy) |
+| [0397-integer-replacement](https://github.com/gauravpawar47/Code-Knight/tree/master/0397-integer-replacement) |
 | [0797-rabbits-in-forest](https://github.com/gauravpawar47/Code-Knight/tree/master/0797-rabbits-in-forest) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/gauravpawar47/Code-Knight/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/gauravpawar47/Code-Knight/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -542,6 +545,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/gauravpawar47/Code-Knight/tree/master/0139-word-break) |
+| [0397-integer-replacement](https://github.com/gauravpawar47/Code-Knight/tree/master/0397-integer-replacement) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/gauravpawar47/Code-Knight/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Minimum Spanning Tree
 |  |
