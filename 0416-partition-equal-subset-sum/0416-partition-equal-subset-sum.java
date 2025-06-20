@@ -1,57 +1,52 @@
 class Solution 
 {
-    int[][] t = new int[201][20001];
-    public boolean solve(int[] nums, int i, int x)
-    {
-        // Step 1 : Base-Case
-        if(x == 0)
-        {
-            return true;
-        }
-        
-        if(t[i][x] != -1)
-        {
-            return t[i][x] == 1;
-        } 
-
-        if(i >= nums.length)
-        {
-            return false;
-        }
-
-        // Step 2 : Kaam & Inner Function Call
-        boolean take = false;
-        if(nums[i] <= x)
-        {
-            take = solve(nums, i + 1, x - nums[i]);
-        }
-
-        boolean notTake = solve(nums, i + 1, x);
-        t[i][x] = (take || notTake) ? 1 : 0;
-        
-        return take || notTake;
-    }
-
     public boolean canPartition(int[] nums) 
     {
         int sum = 0;
-        int size = nums.length;
-
         for(int n : nums)
         {
             sum += n;
         }
+
         if(sum % 2 != 0)
         {
             return false;
         }
 
-        for (int[] row : t) 
+        int n = nums.length;
+        int W = sum / 2;    
+        boolean[][] dp = new boolean[n + 1][W + 1];
+
+        for(int i = 0; i < n + 1; i++)
         {
-            Arrays.fill(row, -1);
+            dp[i][0] = true;
         }
 
-        int x = sum / 2;
-        return solve(nums, 0, x);
+        for(int i = 1; i < n + 1; i++)
+        {
+            for(int j = 1; j < W + 1; j++)
+            {
+                int v = nums[i - 1];
+                int wt = j;
+
+                if(v <= wt)
+                {
+                    if(dp[i - 1][j - v])
+                    {
+                        dp[i][j] = true;
+                    }
+                    else if(dp[i - 1][j])
+                    {
+                        dp[i][j] = true;
+                    }
+                }
+                else if(dp[i - 1][j])
+                {
+                    dp[i][j] = true;
+                }
+            }
+        }
+
+        return dp[n][W];
     }
 }
