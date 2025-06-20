@@ -127,6 +127,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/gauravpawar47/Code-Knight/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/gauravpawar47/Code-Knight/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1127-last-stone-weight](https://github.com/gauravpawar47/Code-Knight/tree/master/1127-last-stone-weight) |
+| [1130-last-stone-weight-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1130-last-stone-weight-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/gauravpawar47/Code-Knight/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/gauravpawar47/Code-Knight/tree/master/1319-unique-number-of-occurrences) |
@@ -231,6 +232,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0806-domino-and-tromino-tiling](https://github.com/gauravpawar47/Code-Knight/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/gauravpawar47/Code-Knight/tree/master/0868-push-dominoes) |
 | [1086-divisor-game](https://github.com/gauravpawar47/Code-Knight/tree/master/1086-divisor-game) |
+| [1130-last-stone-weight-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1130-last-stone-weight-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/gauravpawar47/Code-Knight/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/gauravpawar47/Code-Knight/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2415-count-the-number-of-ideal-arrays) |
