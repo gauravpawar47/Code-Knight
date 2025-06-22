@@ -27,6 +27,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1797-goal-parser-interpretation](https://github.com/gauravpawar47/Code-Knight/tree/master/1797-goal-parser-interpretation) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gauravpawar47/Code-Knight/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/gauravpawar47/Code-Knight/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2365-percentage-of-letter-in-string](https://github.com/gauravpawar47/Code-Knight/tree/master/2365-percentage-of-letter-in-string) |
 | [2378-sender-with-largest-word-count](https://github.com/gauravpawar47/Code-Knight/tree/master/2378-sender-with-largest-word-count) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gauravpawar47/Code-Knight/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -412,6 +413,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/gauravpawar47/Code-Knight/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/gauravpawar47/Code-Knight/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/gauravpawar47/Code-Knight/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Prefix Sum
 |  |
 | ------- |
