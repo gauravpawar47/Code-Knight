@@ -40,6 +40,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gauravpawar47/Code-Knight/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gauravpawar47/Code-Knight/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3617-find-the-original-typed-string-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/gauravpawar47/Code-Knight/tree/master/3637-count-number-of-balanced-permutations) |
