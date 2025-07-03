@@ -212,6 +212,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/gauravpawar47/Code-Knight/tree/master/0357-count-numbers-with-unique-digits) |
+| [0728-self-dividing-numbers](https://github.com/gauravpawar47/Code-Knight/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/gauravpawar47/Code-Knight/tree/master/0797-rabbits-in-forest) |
 | [1086-divisor-game](https://github.com/gauravpawar47/Code-Knight/tree/master/1086-divisor-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gauravpawar47/Code-Knight/tree/master/1421-find-numbers-with-even-number-of-digits) |
