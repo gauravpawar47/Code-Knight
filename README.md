@@ -215,6 +215,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/gauravpawar47/Code-Knight/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/gauravpawar47/Code-Knight/tree/master/0009-palindrome-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/gauravpawar47/Code-Knight/tree/master/0357-count-numbers-with-unique-digits) |
 | [0728-self-dividing-numbers](https://github.com/gauravpawar47/Code-Knight/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/gauravpawar47/Code-Knight/tree/master/0797-rabbits-in-forest) |
