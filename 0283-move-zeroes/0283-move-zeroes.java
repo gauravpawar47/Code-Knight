@@ -2,27 +2,26 @@ class Solution
 {
     public void moveZeroes(int[] nums) 
     {
-        ArrayList<Integer> result = new ArrayList<>();
-        int count = 0;
-        for(int i = 0; i < nums.length; i++)
+        int N = nums.length;
+        ArrayList<Integer> list = new ArrayList<>();
+        for(int n : nums)
         {
-            if(nums[i] == 0)
+            if(n != 0)
             {
-                count++;
-                continue;
+                list.add(n);
             }
-            result.add(nums[i]);
         }    
 
-        while(count > 0)
+        int i = 0;
+        while(i < list.size())
         {
-            result.add(0);
-            count--;
+            nums[i] = list.get(i);
+            i++;
         }
 
-        for(int i = 0; i < nums.length; i++)
+        for(; i < N; i++)
         {
-            nums[i] = result.get(i);
+            nums[i] = 0;
         }
     }
 }
