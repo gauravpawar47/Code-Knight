@@ -285,6 +285,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1250-longest-common-subsequence](https://github.com/gauravpawar47/Code-Knight/tree/master/1250-longest-common-subsequence) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/gauravpawar47/Code-Knight/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/gauravpawar47/Code-Knight/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/gauravpawar47/Code-Knight/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/gauravpawar47/Code-Knight/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -659,6 +660,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0139-word-break](https://github.com/gauravpawar47/Code-Knight/tree/master/0139-word-break) |
 | [0397-integer-replacement](https://github.com/gauravpawar47/Code-Knight/tree/master/0397-integer-replacement) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/gauravpawar47/Code-Knight/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/gauravpawar47/Code-Knight/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/gauravpawar47/Code-Knight/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Minimum Spanning Tree
 |  |
