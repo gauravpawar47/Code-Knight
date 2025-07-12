@@ -184,6 +184,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gauravpawar47/Code-Knight/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/gauravpawar47/Code-Knight/tree/master/2249-count-the-hidden-sequences) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/gauravpawar47/Code-Knight/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/gauravpawar47/Code-Knight/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2331-intersection-of-multiple-arrays) |
@@ -397,6 +398,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0349-intersection-of-two-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/0349-intersection-of-two-arrays) |
 | [0868-push-dominoes](https://github.com/gauravpawar47/Code-Knight/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gauravpawar47/Code-Knight/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/gauravpawar47/Code-Knight/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -489,6 +491,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1806-count-of-matches-in-tournament](https://github.com/gauravpawar47/Code-Knight/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/gauravpawar47/Code-Knight/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/gauravpawar47/Code-Knight/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/gauravpawar47/Code-Knight/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Prefix Sum
