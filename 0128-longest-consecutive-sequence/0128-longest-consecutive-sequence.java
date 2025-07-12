@@ -1,7 +1,7 @@
 class Solution 
 {
     public int longestConsecutive(int[] nums) 
-    {   
+    {
         if(nums.length == 0)
         {
             return 0;
@@ -11,26 +11,25 @@ class Solution
         for(int n : nums)
         {
             set.add(n);
-        }   
+        }
 
-        ArrayList<Integer> list = new ArrayList<>(set);
+        int maxSeq = 1;
+        int seq = 1;
+        Integer[] arr = set.toArray(new Integer[0]);
         
-        int max = 1;
-        int count = 1;
-        for(int i = 0; i < list.size() - 1; i++)
+        for(int i = 1; i < arr.length; i++)
         {
-            if(list.get(i) + 1 == list.get(i + 1))
+            if(arr[i] - arr[i - 1] == 1)
             {
-                count++;
+                seq++;
             }
             else
             {
-                count = 1;
+                maxSeq = Math.max(maxSeq, seq);
+                seq = 1;
             }
+        }  
 
-            max = Math.max(max, count);
-        }
-
-        return max;
+        return Math.max(maxSeq, seq);
     }
 }
