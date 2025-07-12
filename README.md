@@ -126,6 +126,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0135-candy](https://github.com/gauravpawar47/Code-Knight/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/gauravpawar47/Code-Knight/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/gauravpawar47/Code-Knight/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/gauravpawar47/Code-Knight/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/gauravpawar47/Code-Knight/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0215-kth-largest-element-in-an-array) |
@@ -272,6 +273,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0119-pascals-triangle-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravpawar47/Code-Knight/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/gauravpawar47/Code-Knight/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/gauravpawar47/Code-Knight/tree/master/0152-maximum-product-subarray) |
 | [0357-count-numbers-with-unique-digits](https://github.com/gauravpawar47/Code-Knight/tree/master/0357-count-numbers-with-unique-digits) |
 | [0397-integer-replacement](https://github.com/gauravpawar47/Code-Knight/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/0416-partition-equal-subset-sum) |
