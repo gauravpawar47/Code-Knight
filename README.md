@@ -121,6 +121,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0078-subsets](https://github.com/gauravpawar47/Code-Knight/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/gauravpawar47/Code-Knight/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravpawar47/Code-Knight/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/gauravpawar47/Code-Knight/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/gauravpawar47/Code-Knight/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/gauravpawar47/Code-Knight/tree/master/0136-single-number) |
@@ -269,6 +270,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0063-unique-paths-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/gauravpawar47/Code-Knight/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravpawar47/Code-Knight/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/gauravpawar47/Code-Knight/tree/master/0139-word-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/gauravpawar47/Code-Knight/tree/master/0357-count-numbers-with-unique-digits) |
 | [0397-integer-replacement](https://github.com/gauravpawar47/Code-Knight/tree/master/0397-integer-replacement) |
