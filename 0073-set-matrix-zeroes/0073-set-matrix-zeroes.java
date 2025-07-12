@@ -1,47 +1,37 @@
 class Solution 
-{
+{ 
     public void setZeroes(int[][] matrix) 
     {
         int m = matrix.length;
         int n = matrix[0].length;
 
-        boolean[] row = new boolean[m]; // Step 1: Row markers
-        boolean[] col = new boolean[n]; // Step 1: Column markers
+        Queue<int[]> queue = new LinkedList<>();
 
-        // Step 2: Mark rows and columns with zeros
-        for(int i = 0; i < m; i++) 
+        for(int i = 0; i < m; i++)
         {
-            for(int j = 0; j < n; j++) 
+            for(int j = 0; j < n; j++)
             {
-                if(matrix[i][j] == 0) 
+                if(matrix[i][j] == 0)
                 {
-                    row[i] = true;
-                    col[j] = true;
+                    queue.add(new int[]{i, j});
                 }
             }
-        }
+        }       
 
-        // Step 3: Set entire rows to zero
-        for(int i = 0; i < m; i++) 
+        while(!queue.isEmpty())
         {
-            if(row[i]) 
+            int[] curr = queue.remove();
+            int i = curr[0];
+            int j = curr[1];
+            
+            for(int row = 0; row < m; row++)
             {
-                for(int j = 0; j < n; j++) 
-                {
-                    matrix[i][j] = 0;
-                }
+                matrix[row][j] = 0;
             }
-        }
 
-        // Step 4: Set entire columns to zero
-        for(int j = 0; j < n; j++) 
-        {
-            if(col[j]) 
+            for(int col = 0; col < n; col++)
             {
-                for(int i = 0; i < m; i++) 
-                {
-                    matrix[i][j] = 0;
-                }
+                matrix[i][col] = 0;
             }
         }
     }
