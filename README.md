@@ -112,6 +112,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/gauravpawar47/Code-Knight/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/gauravpawar47/Code-Knight/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/gauravpawar47/Code-Knight/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/gauravpawar47/Code-Knight/tree/master/0049-group-anagrams) |
@@ -399,6 +400,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/gauravpawar47/Code-Knight/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/gauravpawar47/Code-Knight/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gauravpawar47/Code-Knight/tree/master/0283-move-zeroes) |
