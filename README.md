@@ -245,6 +245,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0728-self-dividing-numbers](https://github.com/gauravpawar47/Code-Knight/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/gauravpawar47/Code-Knight/tree/master/0797-rabbits-in-forest) |
 | [1086-divisor-game](https://github.com/gauravpawar47/Code-Knight/tree/master/1086-divisor-game) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gauravpawar47/Code-Knight/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gauravpawar47/Code-Knight/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/gauravpawar47/Code-Knight/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gauravpawar47/Code-Knight/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -648,6 +649,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gauravpawar47/Code-Knight/tree/master/0023-merge-k-sorted-lists) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gauravpawar47/Code-Knight/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Merge Sort
 |  |
 | ------- |
