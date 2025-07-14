@@ -2,18 +2,18 @@ class Solution
 {
     public List<Integer> majorityElement(int[] nums) 
     {
+        int n = nums.length;
         HashMap<Integer, Integer> map = new HashMap<>();
         HashSet<Integer> set = new HashSet<>();
-
-        for(int n : nums)
+        for(int i : nums)
         {
-            map.put(n, map.getOrDefault(n, 0) + 1);
-            if(map.get(n) > nums.length / 3)
+            map.put(i, map.getOrDefault(i, 0) + 1);
+            if(map.get(i) > n / 3)
             {
-                set.add(n);
+                set.add(i);
             }
-        }        
-        
+        }    
+
         return new ArrayList<>(set);
     }
 }
