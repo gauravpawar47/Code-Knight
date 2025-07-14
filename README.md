@@ -113,6 +113,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/gauravpawar47/Code-Knight/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/gauravpawar47/Code-Knight/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/gauravpawar47/Code-Knight/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/gauravpawar47/Code-Knight/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0054-spiral-matrix) |
@@ -224,6 +225,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/gauravpawar47/Code-Knight/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/gauravpawar47/Code-Knight/tree/master/0073-set-matrix-zeroes) |
@@ -239,6 +241,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | ------- |
 | [0007-reverse-integer](https://github.com/gauravpawar47/Code-Knight/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/gauravpawar47/Code-Knight/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/gauravpawar47/Code-Knight/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gauravpawar47/Code-Knight/tree/master/0268-missing-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/gauravpawar47/Code-Knight/tree/master/0357-count-numbers-with-unique-digits) |
