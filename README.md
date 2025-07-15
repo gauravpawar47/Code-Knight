@@ -13,6 +13,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0127-word-ladder](https://github.com/gauravpawar47/Code-Knight/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/gauravpawar47/Code-Knight/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/gauravpawar47/Code-Knight/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/gauravpawar47/Code-Knight/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -327,6 +328,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0128-longest-consecutive-sequence](https://github.com/gauravpawar47/Code-Knight/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/gauravpawar47/Code-Knight/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/gauravpawar47/Code-Knight/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/gauravpawar47/Code-Knight/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/gauravpawar47/Code-Knight/tree/master/0242-valid-anagram) |
