@@ -28,6 +28,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1250-longest-common-subsequence](https://github.com/gauravpawar47/Code-Knight/tree/master/1250-longest-common-subsequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauravpawar47/Code-Knight/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1797-goal-parser-interpretation](https://github.com/gauravpawar47/Code-Knight/tree/master/1797-goal-parser-interpretation) |
+| [2032-largest-odd-number-in-string](https://github.com/gauravpawar47/Code-Knight/tree/master/2032-largest-odd-number-in-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauravpawar47/Code-Knight/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gauravpawar47/Code-Knight/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -258,6 +259,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1500-count-largest-group](https://github.com/gauravpawar47/Code-Knight/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gauravpawar47/Code-Knight/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1806-count-of-matches-in-tournament](https://github.com/gauravpawar47/Code-Knight/tree/master/1806-count-of-matches-in-tournament) |
+| [2032-largest-odd-number-in-string](https://github.com/gauravpawar47/Code-Knight/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/gauravpawar47/Code-Knight/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2238-a-number-after-a-double-reversal](https://github.com/gauravpawar47/Code-Knight/tree/master/2238-a-number-after-a-double-reversal) |
@@ -484,6 +486,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/gauravpawar47/Code-Knight/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gauravpawar47/Code-Knight/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gauravpawar47/Code-Knight/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2032-largest-odd-number-in-string](https://github.com/gauravpawar47/Code-Knight/tree/master/2032-largest-odd-number-in-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/gauravpawar47/Code-Knight/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauravpawar47/Code-Knight/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/gauravpawar47/Code-Knight/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
