@@ -142,6 +142,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0416-partition-equal-subset-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/gauravpawar47/Code-Knight/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/gauravpawar47/Code-Knight/tree/master/0491-non-decreasing-subsequences) |
+| [0493-reverse-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/gauravpawar47/Code-Knight/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/gauravpawar47/Code-Knight/tree/master/0560-subarray-sum-equals-k) |
@@ -418,6 +419,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | ------- |
 | [0268-missing-number](https://github.com/gauravpawar47/Code-Knight/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/0493-reverse-pairs) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gauravpawar47/Code-Knight/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/gauravpawar47/Code-Knight/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -624,6 +626,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0169-majority-element](https://github.com/gauravpawar47/Code-Knight/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gauravpawar47/Code-Knight/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/0493-reverse-pairs) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
@@ -660,6 +663,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gauravpawar47/Code-Knight/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/0493-reverse-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -714,4 +718,16 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
