@@ -6,7 +6,6 @@ class Solution
         {
             return 0;
         } 
-
         if(needle.length() > haystack.length())
         {
             return -1;
