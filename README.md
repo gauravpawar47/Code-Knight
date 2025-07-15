@@ -12,6 +12,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0076-minimum-window-substring](https://github.com/gauravpawar47/Code-Knight/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/gauravpawar47/Code-Knight/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/gauravpawar47/Code-Knight/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/gauravpawar47/Code-Knight/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -410,6 +411,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0031-next-permutation](https://github.com/gauravpawar47/Code-Knight/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/gauravpawar47/Code-Knight/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gauravpawar47/Code-Knight/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/0349-intersection-of-two-arrays) |
