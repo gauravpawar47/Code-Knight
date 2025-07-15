@@ -3,28 +3,26 @@ class Solution
     public List<List<Integer>> generate(int numRows) 
     {
         List<List<Integer>> result = new ArrayList<>();
-        int[][] dp = new int[numRows][numRows];
-
-        for(int i = 0; i < numRows; i++)
+        for(int i = 1; i <= numRows; i++)
         {
-            List<Integer> row = new ArrayList<>();
-            for(int j = 0; j <= i; j++)
+            ArrayList<Integer> curr = new ArrayList<>();
+            for(int j = 1; j <= i; j++)
             {
-                if(j == 0 || j == i)
+                if(j == 1 || j == i)
                 {
-                    dp[i][j] = 1;
+                    curr.add(1);
                 }
                 else
                 {
-                    dp[i][j] = dp[i - 1][j - 1] + dp[i - 1][j];
+                    int left = result.get(i - 2).get(j - 2);
+                    int right = result.get(i - 2).get(j - 1);
+                    curr.add(left + right);
                 }
-
-                row.add(dp[i][j]);
             }
 
-            result.add(row);
-        }
+            result.add(curr);
+        }    
 
-        return result;    
+        return result;
     }
 }
