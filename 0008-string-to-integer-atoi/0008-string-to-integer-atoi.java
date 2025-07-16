@@ -1,36 +1,71 @@
-class Solution
+class Solution 
 {
-    public int getAtoi(String s, int i, int n, int result, boolean isNegative)
+    public int myAtoi(String s) 
     {
-        // Step 1 : Base-Case
-        if(i == n || !Character.isDigit(s.charAt(i)))
+        if(s.isEmpty() || s == null)
         {
-            return result;
-        }
+            return 0;
+        }       
 
-        // Step 2 : Kaam
-        int curr = s.charAt(i) - '0';
-        if (result > (Integer.MAX_VALUE - curr) / 10)
-        {
-            return isNegative ? Integer.MIN_VALUE : Integer.MAX_VALUE;
-        }
-        result = result * 10 + curr;
-
-        // Step 3 : Inner Function Call
-        return getAtoi(s, i + 1, n, result, isNegative);
-    }
-
-    public int myAtoi(String s)
-    {
         s = s.trim();
         if(s.length() == 0)
         {
             return 0;
         }
 
-        int i = s.charAt(0) == '-' || s.charAt(0) == '+' ? 1 : 0;
-        boolean isNegative = s.charAt(0) == '-';
+        boolean isNegative = false;
+        int idx = 0;
 
-        return isNegative ? -getAtoi(s, i, s.length(), 0, isNegative) : getAtoi(s, i, s.length(), 0, isNegative);
+        if(s.charAt(0) == '-')
+        {
+            isNegative = true;
+            idx++;
+        }
+        else if(s.charAt(0) == '+')
+        {
+            idx++;
+        }
+
+        while(idx < s.length() && s.charAt(idx) == '0')
+        {
+            idx++;
+        }
+
+        StringBuilder sb = new StringBuilder();
+        while(idx < s.length() && Character.isDigit(s.charAt(idx)))
+        {
+            sb.append(s.charAt(idx));
+            idx++;
+        }
+
+        if(sb.length() == 0)
+        {
+            return 0;
+        }
+
+        try
+        {
+            long num = Long.parseLong(sb.toString());
+            if(isNegative)
+            {
+                num = -num;
+            }
+
+            if(num < Integer.MIN_VALUE)
+            {
+                return Integer.MIN_VALUE;
+            }
+
+            if(num > Integer.MAX_VALUE)
+            {
+                return Integer.MAX_VALUE;
+            }
+
+            return (int) num;
+        }
+        catch (NumberFormatException e)
+        {
+            return isNegative ? Integer.MIN_VALUE : Integer.MAX_VALUE;
+        }
     }
 }
