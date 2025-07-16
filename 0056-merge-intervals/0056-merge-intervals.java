@@ -1,43 +1,38 @@
-class Solution
+class Solution 
 {
-    public int[][] merge(int[][] intervals)
+    public int[][] merge(int[][] intervals) 
     {
-        // Step 0 : Base-Case
-        if (intervals.length <= 1)
+        if(intervals == null || intervals.length == 0)
         {
-            return intervals;
+            return new int[0][0];
         }
 
-        // Step 1: Sort the intervals by their starting times
+        ArrayList<int[]> result = new ArrayList<>();
         Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
 
-        // Step 2: Initialize result list
-        List<int[]> result = new ArrayList<>();
-
-        // Step 3: Start merging intervals
-        int[] currentInterval = intervals[0];
-        result.add(currentInterval);
-
-        for (int i = 1; i < intervals.length; i++)
+        result.add(intervals[0]);
+        for(int i = 1; i < intervals.length; i++)
         {
-            int currentStart = currentInterval[0];
-            int currentEnd = currentInterval[1];
-            int nextStart = intervals[i][0];
-            int nextEnd = intervals[i][1];
+            int[] curr = intervals[i];
+            int[] prev = result.get(result.size() - 1);
 
-            // Step 4 : Check if there is an overlap
-            if (currentEnd >= nextStart)
+            int prevEnd = prev[1];
+            int currStart = curr[0];
+
+            if(prevEnd >= currStart)
             {
-                currentInterval[1] = Math.max(currentEnd, nextEnd);
+                int[] merged = new int[2];
+                merged[0] = prev[0];
+                merged[1] = Math.max(prev[1], curr[1]);
+
+                result.set(result.size() - 1, merged);
             }
             else
             {
-                currentInterval = intervals[i];
-                result.add(currentInterval);
+                result.add(curr);    
             }
-        }
+        }   
 
-        // Step 5: Convert result list to 2D array and return
         return result.toArray(new int[result.size()][]);
     }
 }
