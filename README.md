@@ -6,6 +6,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/gauravpawar47/Code-Knight/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/gauravpawar47/Code-Knight/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/gauravpawar47/Code-Knight/tree/master/0038-count-and-say) |
@@ -255,6 +256,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | ------- |
 | [0007-reverse-integer](https://github.com/gauravpawar47/Code-Knight/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/gauravpawar47/Code-Knight/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/gauravpawar47/Code-Knight/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/gauravpawar47/Code-Knight/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gauravpawar47/Code-Knight/tree/master/0268-missing-number) |
@@ -328,6 +330,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/gauravpawar47/Code-Knight/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/gauravpawar47/Code-Knight/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/gauravpawar47/Code-Knight/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/gauravpawar47/Code-Knight/tree/master/0076-minimum-window-substring) |
