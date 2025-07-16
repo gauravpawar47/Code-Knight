@@ -3,10 +3,9 @@ class Solution
     public String reverseWords(String s) 
     {
         s = s.trim();
+        Stack<String> stack = new Stack<>();
 
-        ArrayList<String> list = new ArrayList<>();
         StringBuilder sb = new StringBuilder();
-
         for(int i = 0; i < s.length(); i++)
         {
             char c = s.charAt(i);
@@ -14,7 +13,7 @@ class Solution
             {
                 if(sb.length() > 0)
                 {
-                    list.add(sb.toString());
+                    stack.push(sb.toString());
                     sb.setLength(0);
                 }
             }
@@ -24,22 +23,15 @@ class Solution
             }
         }
 
-        if(sb.length() > 0)
-        {
-            list.add(sb.toString());
-        }
+        stack.push(sb.toString());
+        sb = new StringBuilder();
         
-        sb.setLength(0);
-
-        for(int i = list.size() - 1; i >= 0; i--)
+        while(!stack.isEmpty())
         {
-            sb.append(list.get(i));
-            if(i != 0)
-            {
-                sb.append(" ");
-            }
+            sb.append(stack.pop());
+            sb.append(" ");
         }
 
-        return sb.toString();
+        return sb.deleteCharAt(sb.length() - 1).toString();
     }
 }
