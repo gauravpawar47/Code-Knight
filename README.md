@@ -127,6 +127,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0014-longest-common-prefix](https://github.com/gauravpawar47/Code-Knight/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/gauravpawar47/Code-Knight/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/gauravpawar47/Code-Knight/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/gauravpawar47/Code-Knight/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/gauravpawar47/Code-Knight/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/gauravpawar47/Code-Knight/tree/master/0049-group-anagrams) |
@@ -447,6 +448,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/gauravpawar47/Code-Knight/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/gauravpawar47/Code-Knight/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/0493-reverse-pairs) |
