@@ -34,6 +34,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/gauravpawar47/Code-Knight/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/gauravpawar47/Code-Knight/tree/master/1250-longest-common-subsequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauravpawar47/Code-Knight/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauravpawar47/Code-Knight/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1797-goal-parser-interpretation](https://github.com/gauravpawar47/Code-Knight/tree/master/1797-goal-parser-interpretation) |
@@ -113,6 +114,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0754-cracking-the-safe](https://github.com/gauravpawar47/Code-Knight/tree/master/0754-cracking-the-safe) |
 | [0813-all-paths-from-source-to-target](https://github.com/gauravpawar47/Code-Knight/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/gauravpawar47/Code-Knight/tree/master/0871-keys-and-rooms) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauravpawar47/Code-Knight/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/gauravpawar47/Code-Knight/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -181,6 +183,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1227-number-of-equivalent-domino-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/gauravpawar47/Code-Knight/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/gauravpawar47/Code-Knight/tree/master/1319-unique-number-of-occurrences) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauravpawar47/Code-Knight/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauravpawar47/Code-Knight/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/gauravpawar47/Code-Knight/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -716,6 +719,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/gauravpawar47/Code-Knight/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0692-top-k-frequent-words](https://github.com/gauravpawar47/Code-Knight/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/gauravpawar47/Code-Knight/tree/master/0720-longest-word-in-dictionary) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauravpawar47/Code-Knight/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Union Find
 |  |
 | ------- |
