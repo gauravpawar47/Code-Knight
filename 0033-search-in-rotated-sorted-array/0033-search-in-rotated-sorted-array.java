@@ -1,14 +1,12 @@
-class Solution
+class Solution 
 {
-    public int helper(int[] arr, int target, int si, int ei)
+    public int helper(int[] arr, int si, int ei, int target)
     {
-        // Step 1 : Base-Case
         if(si > ei)
         {
             return -1;
         }
 
-        // Step 2 : Kaam & Inner Function Call
         int mid = si + (ei - si) / 2;
         if(arr[mid] == target)
         {
@@ -19,28 +17,28 @@ class Solution
         {
             if(arr[si] <= target && target <= arr[mid])
             {
-                return helper(arr, target, si , mid - 1);
+                return helper(arr, si, mid - 1, target);
             }
             else
             {
-                return helper(arr, target, mid + 1, ei);
+                return helper(arr, mid + 1, ei, target);
             }
         }
-        else 
+        else
         {
             if(arr[mid] <= target && target <= arr[ei])
             {
-                return helper(arr, target, mid + 1, ei);
+                return helper(arr, mid + 1, ei, target);
             }
             else
             {
-                return helper(arr, target, si, mid - 1);
+                return helper(arr, si, mid - 1, target);
             }
         }
     }
 
-    public int search(int[] nums, int target)
+    public int search(int[] nums, int target) 
     {
-        return helper(nums, target, 0, nums.length - 1);    
+        return helper(nums, 0, nums.length - 1, target);
     }
 }
