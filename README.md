@@ -139,6 +139,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0056-merge-intervals](https://github.com/gauravpawar47/Code-Knight/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/gauravpawar47/Code-Knight/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/gauravpawar47/Code-Knight/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/gauravpawar47/Code-Knight/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0088-merge-sorted-array) |
@@ -256,6 +257,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0054-spiral-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/gauravpawar47/Code-Knight/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0074-search-a-2d-matrix) |
 | [0777-toeplitz-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0777-toeplitz-matrix) |
 | [0945-snakes-and-ladders](https://github.com/gauravpawar47/Code-Knight/tree/master/0945-snakes-and-ladders) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/gauravpawar47/Code-Knight/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
@@ -455,6 +457,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/gauravpawar47/Code-Knight/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/gauravpawar47/Code-Knight/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/0493-reverse-pairs) |
