@@ -361,6 +361,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0128-longest-consecutive-sequence](https://github.com/gauravpawar47/Code-Knight/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/gauravpawar47/Code-Knight/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/gauravpawar47/Code-Knight/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/gauravpawar47/Code-Knight/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/gauravpawar47/Code-Knight/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/0208-implement-trie-prefix-tree) |
@@ -451,6 +452,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0075-sort-colors](https://github.com/gauravpawar47/Code-Knight/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/gauravpawar47/Code-Knight/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gauravpawar47/Code-Knight/tree/master/0283-move-zeroes) |
@@ -723,6 +725,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gauravpawar47/Code-Knight/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/gauravpawar47/Code-Knight/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/gauravpawar47/Code-Knight/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/gauravpawar47/Code-Knight/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gauravpawar47/Code-Knight/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
