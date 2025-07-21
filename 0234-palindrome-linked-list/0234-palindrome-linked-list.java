@@ -1,33 +1,49 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution 
 {
     public boolean isPalindrome(ListNode head) 
     {
-        Stack<Integer> stack = new Stack<>();
-        ListNode temp = head;
-
-        while(temp != null)
+        if(head == null || head.next == null)
         {
-            stack.push(temp.val);
-            temp = temp.next;
-        }  
-
-        temp = head;
-        while(!stack.isEmpty() && temp.val == stack.peek())
-        {
-            temp = temp.next;
-            stack.pop();
+            return true;
         }
 
-        return stack.isEmpty();
+        int size = 0;
+        ListNode temp = head;
+        while(temp != null)
+        {
+            temp = temp.next;
+            size++;
+        }
+
+        int mid = size / 2;
+        Stack<Integer> stack = new Stack<>();
+
+        int i = 1; 
+        ListNode left = head;
+        ListNode right = head;
+        while(i <= mid)
+        {
+            stack.push(left.val);
+            left = left.next;
+            right = right.next;
+            i++;
+        }
+
+        // ✅ Skip the middle node for odd-length lists
+        if(size % 2 != 0)
+        {
+            right = right.next;
+        }
+
+        while(right != null)
+        {
+            if(stack.isEmpty() || stack.pop() != right.val)
+            {
+                return false;
+            }
+            right = right.next;
+        }
+
+        return true;
     }
 }
