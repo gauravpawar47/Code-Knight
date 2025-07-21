@@ -8,33 +8,63 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution
+class Solution 
 {
-    public ListNode sortList(ListNode head)
+    public ListNode sortList(ListNode head) 
     {
-        if(head == null)
+        if(head == null || head.next == null)
         {
             return head;
         }
-        
-        ArrayList<Integer> list = new ArrayList<>();
-        ListNode temp = head;
-        while(temp != null)
-        {
-            list.add(temp.val);
-            temp = temp.next;
-        }    
 
-        Collections.sort(list);
-        ListNode newHead = new ListNode(list.get(0));
-        ListNode newTemp = newHead;
+        ListNode slow = head;
+        ListNode fast = head;
+        ListNode prev = null;
 
-        for(int i = 1; i < list.size(); i++)
+        while(fast != null && fast.next != null)
         {
-            newTemp.next = new ListNode(list.get(i));
-            newTemp = newTemp.next;
+            prev = slow;
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        return newHead;
+        prev.next = null;
+        ListNode left = sortList(head);
+        ListNode right = sortList(slow);
+        return merge(left, right);
+    }
+
+    public ListNode merge(ListNode left, ListNode right)
+    {
+        ListNode dummy = new ListNode(0);
+        ListNode curr = dummy;
+
+        while(left != null && right != null)
+        {
+            if(left.val < right.val)
+            {
+                curr.next = left;
+                left = left.next;
+            }
+            else
+            {
+                curr.next = right;
+                right = right.next;
+            }
+
+            curr = curr.next;
+        }
+
+        if(left != null)
+        {
+            curr.next = left;
+        }
+
+        if(right != null)
+        {
+            curr.next = right;
+        }
+
+        return dummy.next;
     }
 }
