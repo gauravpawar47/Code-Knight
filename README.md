@@ -34,6 +34,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/gauravpawar47/Code-Knight/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/gauravpawar47/Code-Knight/tree/master/1250-longest-common-subsequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/gauravpawar47/Code-Knight/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauravpawar47/Code-Knight/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauravpawar47/Code-Knight/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
