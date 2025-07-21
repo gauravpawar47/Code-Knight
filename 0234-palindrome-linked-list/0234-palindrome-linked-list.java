@@ -1,3 +1,13 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution 
 {
     public boolean isPalindrome(ListNode head) 
@@ -15,9 +25,9 @@ class Solution
             size++;
         }
 
-        int mid = size / 2;
+        int mid = (size / 2);
         Stack<Integer> stack = new Stack<>();
-
+        
         int i = 1; 
         ListNode left = head;
         ListNode right = head;
@@ -29,21 +39,17 @@ class Solution
             i++;
         }
 
-        // ✅ Skip the middle node for odd-length lists
-        if(size % 2 != 0)
+        if(size % 2 == 1)
         {
             right = right.next;
         }
 
-        while(right != null)
+        while(right != null && stack.peek() == right.val)
         {
-            if(stack.isEmpty() || stack.pop() != right.val)
-            {
-                return false;
-            }
+            stack.pop();
             right = right.next;
         }
 
-        return true;
+        return stack.isEmpty();
     }
 }
