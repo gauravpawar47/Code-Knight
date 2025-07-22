@@ -740,6 +740,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0141-linked-list-cycle](https://github.com/gauravpawar47/Code-Knight/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/gauravpawar47/Code-Knight/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/gauravpawar47/Code-Knight/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/gauravpawar47/Code-Knight/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/gauravpawar47/Code-Knight/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/gauravpawar47/Code-Knight/tree/master/0328-odd-even-linked-list) |
@@ -811,6 +812,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gauravpawar47/Code-Knight/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/gauravpawar47/Code-Knight/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/gauravpawar47/Code-Knight/tree/master/0234-palindrome-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
