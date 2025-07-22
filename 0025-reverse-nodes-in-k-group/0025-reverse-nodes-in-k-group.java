@@ -12,39 +12,42 @@ class Solution
 {
     public ListNode reverseKGroup(ListNode head, int k) 
     {
-        ListNode node = head;
-        int count = 0;
+        ArrayList<Integer> list = new ArrayList<>();
+        ListNode temp = head;
 
-        // Step 1: Check if we have at least k nodes
-        while (node != null && count < k) 
+        while(temp != null)
         {
-            node = node.next;
-            count++;
+            list.add(temp.val);
+            temp = temp.next;
         }
 
-        if (count < k)
+        for(int i = 0; i + k <= list.size(); i += k)
         {
-            return head; // Not enough nodes to reverse
-        } 
-
-        // Step 2: Reverse k nodes
-        ListNode prev = null;
-        ListNode curr = head;
-        ListNode next = null;
-        int i = 0;
-
-        while (i < k) 
-        {
-            next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
-            i++;
+            swap(list, i, i + k - 1);
         }
 
-        // Step 3: head is now the tail after reversal
-        head.next = reverseKGroup(curr, k);
+        ListNode newHead = new ListNode(0);
+        ListNode curr = newHead;
 
-        return prev; // prev is the new head after reversing
+        for(int i : list)
+        {
+            curr.next = new ListNode(i);
+            curr = curr.next;
+        }
+
+        return newHead.next;
+    }
+
+    public void swap(ArrayList<Integer> list, int start, int end)
+    {
+        while(start < end)
+        {
+            int temp = list.get(start);
+            list.set(start, list.get(end));
+            list.set(end, temp);
+
+            start++;
+            end--;
+        }
     }
 }
