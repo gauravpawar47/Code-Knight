@@ -10,6 +10,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0008-string-to-integer-atoi](https://github.com/gauravpawar47/Code-Knight/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/gauravpawar47/Code-Knight/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/gauravpawar47/Code-Knight/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/gauravpawar47/Code-Knight/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/gauravpawar47/Code-Knight/tree/master/0049-group-anagrams) |
@@ -811,6 +812,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/gauravpawar47/Code-Knight/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gauravpawar47/Code-Knight/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/gauravpawar47/Code-Knight/tree/master/0234-palindrome-linked-list) |
