@@ -1,37 +1,40 @@
 class MyStack 
 {
-    ArrayList<Integer> list;
-    int rear;
+    Queue<Integer> queue;
+    Queue<Integer> helper;
 
     public MyStack() 
     {
-        list = new ArrayList<>();
-        rear = 0;
+        queue = new LinkedList<>();    
+        helper = new LinkedList<>();    
     }
     
     public void push(int x) 
     {
-        list.add(rear, x);
+        helper.add(x);
+        while(!queue.isEmpty())    
+        {
+            helper.add(queue.remove());
+        }
+
+        Queue<Integer> temp = queue;
+        queue = helper;
+        helper = temp;
     }
     
     public int pop() 
     {
-        if(empty())
-        {
-            return -1;
-        }
-
-        return list.remove(rear);
+        return empty() ? -1 : queue.remove();
     }
     
     public int top() 
     {
-        return list.get(rear);
+        return empty() ? -1 : queue.peek();    
     }
     
     public boolean empty() 
     {
-        return list.isEmpty();
+        return queue.isEmpty();    
     }
 }
 
