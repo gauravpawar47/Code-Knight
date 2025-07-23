@@ -1,46 +1,37 @@
-class MyStack
+class MyStack 
 {
-    int[] queue;
+    ArrayList<Integer> list;
     int rear;
-    int maxSize;
 
-    public MyStack()
+    public MyStack() 
     {
-        rear = -1;
-        maxSize = 100;
-        queue = new int[maxSize];    
+        list = new ArrayList<>();
+        rear = 0;
     }
     
-    public void push(int x)
+    public void push(int x) 
     {
-        rear++;
-        queue[rear] = x;
+        list.add(rear, x);
     }
     
-    public int pop()
+    public int pop() 
     {
         if(empty())
         {
             return -1;
         }
-        else
-        {
-            int data = top();
-            queue[rear] = 0;
-            rear--;
 
-            return data;
-        }
+        return list.remove(rear);
     }
     
-    public int top()
-    {    
-        return empty() ? -1 : queue[rear];
-    }
-    
-    public boolean empty()
+    public int top() 
     {
-        return rear == -1;    
+        return list.get(rear);
+    }
+    
+    public boolean empty() 
+    {
+        return list.isEmpty();
     }
 }
 
