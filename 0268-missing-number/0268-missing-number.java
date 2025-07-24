@@ -2,27 +2,27 @@ class Solution
 {
     public int missingNumber(int[] nums) 
     {
-        int[] map = new int[100001];
-        for(int n : nums)
+        Arrays.sort(nums);    
+        int n = nums.length;
+        
+        if(nums[n - 1] != n)
         {
-            map[n]++;
+            return n;
+        }
+        
+        if(nums[0] != 0)
+        {
+            return 0;
         }
 
-        int j = 0;
-        for(int i = 1; i < map.length; i++)
+        for(int i = 0; i < n - 1; i++)
         {
-            if(j == nums.length)
+            if(nums[i + 1] - nums[i] > 1)
             {
-                break;
+                return nums[i + 1] - 1;
             }
-
-            if(map[i] != 1)
-            {
-                return i;
-            }
-            j++;
         }
 
-        return 0;
+        return -1;
     }
 }
