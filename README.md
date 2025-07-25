@@ -266,6 +266,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/gauravpawar47/Code-Knight/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gauravpawar47/Code-Knight/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gauravpawar47/Code-Knight/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Matrix
 |  |
@@ -428,6 +429,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gauravpawar47/Code-Knight/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gauravpawar47/Code-Knight/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/gauravpawar47/Code-Knight/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gauravpawar47/Code-Knight/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bitmask
@@ -589,6 +591,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3647-zero-array-transformation-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gauravpawar47/Code-Knight/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/gauravpawar47/Code-Knight/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Simulation
 |  |
