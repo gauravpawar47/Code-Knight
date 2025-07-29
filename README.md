@@ -86,6 +86,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gauravpawar47/Code-Knight/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/gauravpawar47/Code-Knight/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/gauravpawar47/Code-Knight/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/gauravpawar47/Code-Knight/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -246,6 +247,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2479-meeting-rooms-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/2479-meeting-rooms-iii) |
 | [2486-most-frequent-even-element](https://github.com/gauravpawar47/Code-Knight/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gauravpawar47/Code-Knight/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/gauravpawar47/Code-Knight/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -518,6 +520,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/gauravpawar47/Code-Knight/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gauravpawar47/Code-Knight/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/gauravpawar47/Code-Knight/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
@@ -641,6 +644,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0594-longest-harmonious-subsequence](https://github.com/gauravpawar47/Code-Knight/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/gauravpawar47/Code-Knight/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gauravpawar47/Code-Knight/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/gauravpawar47/Code-Knight/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gauravpawar47/Code-Knight/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
