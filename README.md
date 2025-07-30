@@ -87,6 +87,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/gauravpawar47/Code-Knight/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/gauravpawar47/Code-Knight/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gauravpawar47/Code-Knight/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/gauravpawar47/Code-Knight/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -248,6 +249,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2486-most-frequent-even-element](https://github.com/gauravpawar47/Code-Knight/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gauravpawar47/Code-Knight/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/gauravpawar47/Code-Knight/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gauravpawar47/Code-Knight/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -856,6 +858,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/gauravpawar47/Code-Knight/tree/master/1086-divisor-game) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gauravpawar47/Code-Knight/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Game Theory
 |  |
 | ------- |
