@@ -82,6 +82,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0491-non-decreasing-subsequences](https://github.com/gauravpawar47/Code-Knight/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/gauravpawar47/Code-Knight/tree/master/0526-beautiful-arrangement) |
 | [0800-letter-case-permutation](https://github.com/gauravpawar47/Code-Knight/tree/master/0800-letter-case-permutation) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/gauravpawar47/Code-Knight/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/gauravpawar47/Code-Knight/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gauravpawar47/Code-Knight/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/gauravpawar47/Code-Knight/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -190,6 +191,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0777-toeplitz-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/gauravpawar47/Code-Knight/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/gauravpawar47/Code-Knight/tree/master/0797-rabbits-in-forest) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/gauravpawar47/Code-Knight/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/gauravpawar47/Code-Knight/tree/master/0945-snakes-and-ladders) |
 | [0981-delete-columns-to-make-sorted](https://github.com/gauravpawar47/Code-Knight/tree/master/0981-delete-columns-to-make-sorted) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/gauravpawar47/Code-Knight/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -354,6 +356,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0747-min-cost-climbing-stairs](https://github.com/gauravpawar47/Code-Knight/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/gauravpawar47/Code-Knight/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/gauravpawar47/Code-Knight/tree/master/0868-push-dominoes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/gauravpawar47/Code-Knight/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1086-divisor-game](https://github.com/gauravpawar47/Code-Knight/tree/master/1086-divisor-game) |
 | [1130-last-stone-weight-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1130-last-stone-weight-ii) |
 | [1250-longest-common-subsequence](https://github.com/gauravpawar47/Code-Knight/tree/master/1250-longest-common-subsequence) |
