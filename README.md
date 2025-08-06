@@ -281,6 +281,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/gauravpawar47/Code-Knight/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gauravpawar47/Code-Knight/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/gauravpawar47/Code-Knight/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3791-fruits-into-baskets-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/3791-fruits-into-baskets-iii) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gauravpawar47/Code-Knight/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Matrix
 |  |
@@ -534,6 +535,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/gauravpawar47/Code-Knight/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3791-fruits-into-baskets-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/3791-fruits-into-baskets-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -895,10 +897,12 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | ------- |
 | [0493-reverse-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/0493-reverse-pairs) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/gauravpawar47/Code-Knight/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3791-fruits-into-baskets-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/0493-reverse-pairs) |
+| [3791-fruits-into-baskets-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/3791-fruits-into-baskets-iii) |
 ## String Matching
 |  |
 | ------- |
