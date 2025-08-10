@@ -317,6 +317,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0728-self-dividing-numbers](https://github.com/gauravpawar47/Code-Knight/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/gauravpawar47/Code-Knight/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/gauravpawar47/Code-Knight/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/gauravpawar47/Code-Knight/tree/master/0900-reordered-power-of-2) |
 | [1086-divisor-game](https://github.com/gauravpawar47/Code-Knight/tree/master/1086-divisor-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gauravpawar47/Code-Knight/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gauravpawar47/Code-Knight/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -418,6 +419,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0692-top-k-frequent-words](https://github.com/gauravpawar47/Code-Knight/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/gauravpawar47/Code-Knight/tree/master/0720-longest-word-in-dictionary) |
 | [0797-rabbits-in-forest](https://github.com/gauravpawar47/Code-Knight/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/gauravpawar47/Code-Knight/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/gauravpawar47/Code-Knight/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/gauravpawar47/Code-Knight/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -562,6 +564,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0594-longest-harmonious-subsequence](https://github.com/gauravpawar47/Code-Knight/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/gauravpawar47/Code-Knight/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/gauravpawar47/Code-Knight/tree/master/0720-longest-word-in-dictionary) |
+| [0900-reordered-power-of-2](https://github.com/gauravpawar47/Code-Knight/tree/master/0900-reordered-power-of-2) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/gauravpawar47/Code-Knight/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauravpawar47/Code-Knight/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/gauravpawar47/Code-Knight/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -695,6 +698,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0451-sort-characters-by-frequency](https://github.com/gauravpawar47/Code-Knight/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauravpawar47/Code-Knight/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/gauravpawar47/Code-Knight/tree/master/0692-top-k-frequent-words) |
+| [0900-reordered-power-of-2](https://github.com/gauravpawar47/Code-Knight/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/gauravpawar47/Code-Knight/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -745,6 +749,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/gauravpawar47/Code-Knight/tree/master/0900-reordered-power-of-2) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauravpawar47/Code-Knight/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gauravpawar47/Code-Knight/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/gauravpawar47/Code-Knight/tree/master/2202-sum-of-k-mirror-numbers) |
