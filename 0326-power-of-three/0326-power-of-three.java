@@ -1,15 +1,8 @@
-class Solution
+public class Solution 
 {
-    public boolean isPowerOfThree(int n)
-    {   
-        for (int i = 0; i < 31; i++)
-        {
-            long ans = (long) Math.pow(3, i);
-            if (ans == n)
-            {
-                return true;
-            }
-        }
-        return false;
+    public boolean isPowerOfThree(int n) 
+    {
+        int maxPowerOf3 = 1162261467; // 3^19 is the largest power of 3 in int range
+        return n > 0 && maxPowerOf3 % n == 0;
     }
 }
