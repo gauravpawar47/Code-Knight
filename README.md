@@ -254,6 +254,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2398-check-if-matrix-is-x-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/2479-meeting-rooms-iii) |
 | [2486-most-frequent-even-element](https://github.com/gauravpawar47/Code-Knight/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gauravpawar47/Code-Knight/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -339,6 +340,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2202-sum-of-k-mirror-numbers](https://github.com/gauravpawar47/Code-Knight/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2238-a-number-after-a-double-reversal](https://github.com/gauravpawar47/Code-Knight/tree/master/2238-a-number-after-a-double-reversal) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/gauravpawar47/Code-Knight/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/gauravpawar47/Code-Knight/tree/master/2704-maximum-difference-by-remapping-a-digit) |
