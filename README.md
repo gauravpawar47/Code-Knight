@@ -211,6 +211,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauravpawar47/Code-Knight/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauravpawar47/Code-Knight/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/gauravpawar47/Code-Knight/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/gauravpawar47/Code-Knight/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gauravpawar47/Code-Knight/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/gauravpawar47/Code-Knight/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -301,6 +302,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0074-search-a-2d-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0074-search-a-2d-matrix) |
 | [0777-toeplitz-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0777-toeplitz-matrix) |
 | [0945-snakes-and-ladders](https://github.com/gauravpawar47/Code-Knight/tree/master/0945-snakes-and-ladders) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/gauravpawar47/Code-Knight/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/gauravpawar47/Code-Knight/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [3330-modify-the-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/3330-modify-the-matrix) |
@@ -384,6 +386,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1086-divisor-game](https://github.com/gauravpawar47/Code-Knight/tree/master/1086-divisor-game) |
 | [1130-last-stone-weight-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1130-last-stone-weight-ii) |
 | [1250-longest-common-subsequence](https://github.com/gauravpawar47/Code-Knight/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/gauravpawar47/Code-Knight/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/gauravpawar47/Code-Knight/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/gauravpawar47/Code-Knight/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
