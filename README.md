@@ -185,6 +185,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0493-reverse-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/gauravpawar47/Code-Knight/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/gauravpawar47/Code-Knight/tree/master/0498-diagonal-traverse) |
 | [0526-beautiful-arrangement](https://github.com/gauravpawar47/Code-Knight/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gauravpawar47/Code-Knight/tree/master/0560-subarray-sum-equals-k) |
@@ -304,6 +305,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0063-unique-paths-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/gauravpawar47/Code-Knight/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0074-search-a-2d-matrix) |
+| [0498-diagonal-traverse](https://github.com/gauravpawar47/Code-Knight/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0777-toeplitz-matrix) |
 | [0945-snakes-and-ladders](https://github.com/gauravpawar47/Code-Knight/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/gauravpawar47/Code-Knight/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -657,6 +659,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/gauravpawar47/Code-Knight/tree/master/0498-diagonal-traverse) |
 | [1806-count-of-matches-in-tournament](https://github.com/gauravpawar47/Code-Knight/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/gauravpawar47/Code-Knight/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/gauravpawar47/Code-Knight/tree/master/2260-divide-a-string-into-groups-of-size-k) |
