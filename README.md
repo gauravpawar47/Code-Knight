@@ -278,6 +278,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3194-find-words-containing-character](https://github.com/gauravpawar47/Code-Knight/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gauravpawar47/Code-Knight/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/gauravpawar47/Code-Knight/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/gauravpawar47/Code-Knight/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/gauravpawar47/Code-Knight/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/gauravpawar47/Code-Knight/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/3330-modify-the-matrix) |
