@@ -52,7 +52,8 @@ class Solution
                 }
             }
         }
-        
+
         return true;
     }
 }
+
