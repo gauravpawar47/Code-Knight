@@ -98,6 +98,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/gauravpawar47/Code-Knight/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/gauravpawar47/Code-Knight/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/gauravpawar47/Code-Knight/tree/master/0078-subsets) |
@@ -149,6 +150,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/gauravpawar47/Code-Knight/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/gauravpawar47/Code-Knight/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/gauravpawar47/Code-Knight/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/gauravpawar47/Code-Knight/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/gauravpawar47/Code-Knight/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/gauravpawar47/Code-Knight/tree/master/0049-group-anagrams) |
@@ -305,6 +307,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/gauravpawar47/Code-Knight/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/gauravpawar47/Code-Knight/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/gauravpawar47/Code-Knight/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0063-unique-paths-ii) |
@@ -430,6 +433,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | ------- |
 | [0013-roman-to-integer](https://github.com/gauravpawar47/Code-Knight/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/gauravpawar47/Code-Knight/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/gauravpawar47/Code-Knight/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/gauravpawar47/Code-Knight/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/gauravpawar47/Code-Knight/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/gauravpawar47/Code-Knight/tree/master/0076-minimum-window-substring) |
