@@ -2,31 +2,26 @@ class Solution
 {
     public int maxFreqSum(String s) 
     {
-        HashMap<Character, Integer> vowels = new HashMap<>();
-        HashMap<Character, Integer> conso  = new HashMap<>();
-
-        for(int i = 0; i < s.length(); i++)
+        HashMap<Character, Integer> freq = new HashMap<>();
+        int con = 0, vow = 0;
+        for (char c : s.toCharArray()) 
         {
-            char c = s.charAt(i);
-         
-            if (!Character.isLetter(c))
+            freq.put(c, freq.getOrDefault(c, 0) + 1);
+        }
+        
+        for (Map.Entry<Character, Integer> entry : freq.entrySet()) 
+        {
+            char ch = entry.getKey();
+            int count = entry.getValue();
+            if ("aeiou".indexOf(ch) >= 0)
             {
-                continue; 
-            } 
-
-            if(c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u')
-            {
-                vowels.put(c, vowels.getOrDefault(c, 0) + 1);
+                vow = Math.max(vow, count);
             }
             else
             {
-                conso.put(c, conso.getOrDefault(c, 0) + 1);
+                con = Math.max(con, count);
             }
-        }    
-
-        int maxVowel = vowels.isEmpty() ? 0 : Collections.max(vowels.values());
-        int maxConso = conso.isEmpty() ? 0 : Collections.max(conso.values());
-
-        return maxVowel + maxConso;
+        }
+        return con + vow;
     }
 }
