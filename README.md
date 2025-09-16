@@ -260,6 +260,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/gauravpawar47/Code-Knight/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/gauravpawar47/Code-Knight/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gauravpawar47/Code-Knight/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -375,6 +376,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2106-find-greatest-common-divisor-of-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/gauravpawar47/Code-Knight/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2238-a-number-after-a-double-reversal](https://github.com/gauravpawar47/Code-Knight/tree/master/2238-a-number-after-a-double-reversal) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/gauravpawar47/Code-Knight/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -736,6 +738,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Sliding Window
 |  |
@@ -965,6 +968,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1628-count-submatrices-with-all-ones](https://github.com/gauravpawar47/Code-Knight/tree/master/1628-count-submatrices-with-all-ones) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauravpawar47/Code-Knight/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gauravpawar47/Code-Knight/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gauravpawar47/Code-Knight/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Brainteaser
