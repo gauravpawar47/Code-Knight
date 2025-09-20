@@ -1,4 +1,5 @@
-class Router {
+class Router 
+{
     public final int size;
     public final HashMap<Integer, List<Integer>> counts;
     public final HashMap<Long, int[]> packets;
