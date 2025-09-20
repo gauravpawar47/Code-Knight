@@ -320,6 +320,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/gauravpawar47/Code-Knight/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/gauravpawar47/Code-Knight/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/gauravpawar47/Code-Knight/tree/master/3827-implement-router) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gauravpawar47/Code-Knight/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Matrix
 |  |
@@ -532,6 +533,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gauravpawar47/Code-Knight/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gauravpawar47/Code-Knight/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/gauravpawar47/Code-Knight/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/gauravpawar47/Code-Knight/tree/master/3827-implement-router) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/gauravpawar47/Code-Knight/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gauravpawar47/Code-Knight/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bitmask
@@ -620,6 +622,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2699-count-the-number-of-fair-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3791-fruits-into-baskets-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/gauravpawar47/Code-Knight/tree/master/3827-implement-router) |
 ## Sorting
 |  |
 | ------- |
@@ -774,6 +777,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0969-number-of-recent-calls](https://github.com/gauravpawar47/Code-Knight/tree/master/0969-number-of-recent-calls) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/gauravpawar47/Code-Knight/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/gauravpawar47/Code-Knight/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/gauravpawar47/Code-Knight/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -886,6 +890,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2429-design-a-food-rating-system](https://github.com/gauravpawar47/Code-Knight/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/gauravpawar47/Code-Knight/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/gauravpawar47/Code-Knight/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/gauravpawar47/Code-Knight/tree/master/3827-implement-router) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1025,6 +1030,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2429-design-a-food-rating-system](https://github.com/gauravpawar47/Code-Knight/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/gauravpawar47/Code-Knight/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/gauravpawar47/Code-Knight/tree/master/3827-implement-router) |
 ## String Matching
 |  |
 | ------- |
