@@ -296,6 +296,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3194-find-words-containing-character](https://github.com/gauravpawar47/Code-Knight/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gauravpawar47/Code-Knight/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/gauravpawar47/Code-Knight/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/gauravpawar47/Code-Knight/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/gauravpawar47/Code-Knight/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -525,6 +526,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2689-rearranging-fruits](https://github.com/gauravpawar47/Code-Knight/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2915-count-of-interesting-subarrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/gauravpawar47/Code-Knight/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gauravpawar47/Code-Knight/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gauravpawar47/Code-Knight/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
@@ -807,6 +809,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2421-maximum-number-of-pairs-in-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2486-most-frequent-even-element](https://github.com/gauravpawar47/Code-Knight/tree/master/2486-most-frequent-even-element) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2633-minimum-cost-to-split-an-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/gauravpawar47/Code-Knight/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gauravpawar47/Code-Knight/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3630-total-characters-in-string-after-transformations-ii) |
