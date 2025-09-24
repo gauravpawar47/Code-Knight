@@ -18,6 +18,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0127-word-ladder](https://github.com/gauravpawar47/Code-Knight/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/gauravpawar47/Code-Knight/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/gauravpawar47/Code-Knight/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/gauravpawar47/Code-Knight/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/gauravpawar47/Code-Knight/tree/master/0242-valid-anagram) |
@@ -586,6 +587,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0148-sort-list](https://github.com/gauravpawar47/Code-Knight/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gauravpawar47/Code-Knight/tree/master/0160-intersection-of-two-linked-lists) |
+| [0165-compare-version-numbers](https://github.com/gauravpawar47/Code-Knight/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/gauravpawar47/Code-Knight/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/gauravpawar47/Code-Knight/tree/master/0283-move-zeroes) |
