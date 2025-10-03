@@ -193,6 +193,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0283-move-zeroes](https://github.com/gauravpawar47/Code-Knight/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/gauravpawar47/Code-Knight/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/0349-intersection-of-two-arrays) |
+| [0407-trapping-rain-water-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/gauravpawar47/Code-Knight/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/gauravpawar47/Code-Knight/tree/master/0491-non-decreasing-subsequences) |
@@ -340,6 +341,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0063-unique-paths-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/gauravpawar47/Code-Knight/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0074-search-a-2d-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/gauravpawar47/Code-Knight/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0777-toeplitz-matrix) |
 | [0945-snakes-and-ladders](https://github.com/gauravpawar47/Code-Knight/tree/master/0945-snakes-and-ladders) |
@@ -562,6 +564,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/gauravpawar47/Code-Knight/tree/master/0127-word-ladder) |
+| [0407-trapping-rain-water-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/gauravpawar47/Code-Knight/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/gauravpawar47/Code-Knight/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/gauravpawar47/Code-Knight/tree/master/0871-keys-and-rooms) |
@@ -844,6 +847,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0023-merge-k-sorted-lists](https://github.com/gauravpawar47/Code-Knight/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gauravpawar47/Code-Knight/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravpawar47/Code-Knight/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/gauravpawar47/Code-Knight/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauravpawar47/Code-Knight/tree/master/0789-kth-largest-element-in-a-stream) |
