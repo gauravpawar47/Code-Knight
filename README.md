@@ -153,6 +153,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gauravpawar47/Code-Knight/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/gauravpawar47/Code-Knight/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/gauravpawar47/Code-Knight/tree/master/0031-next-permutation) |
@@ -591,6 +592,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gauravpawar47/Code-Knight/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/gauravpawar47/Code-Knight/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gauravpawar47/Code-Knight/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -698,6 +700,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gauravpawar47/Code-Knight/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/gauravpawar47/Code-Knight/tree/master/0135-candy) |
 | [0397-integer-replacement](https://github.com/gauravpawar47/Code-Knight/tree/master/0397-integer-replacement) |
 | [0797-rabbits-in-forest](https://github.com/gauravpawar47/Code-Knight/tree/master/0797-rabbits-in-forest) |
