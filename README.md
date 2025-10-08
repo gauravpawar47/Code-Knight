@@ -284,6 +284,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2350-find-closest-number-to-zero](https://github.com/gauravpawar47/Code-Knight/tree/master/2350-find-closest-number-to-zero) |
 | [2378-sender-with-largest-word-count](https://github.com/gauravpawar47/Code-Knight/tree/master/2378-sender-with-largest-word-count) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravpawar47/Code-Knight/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/gauravpawar47/Code-Knight/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gauravpawar47/Code-Knight/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -626,6 +627,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/gauravpawar47/Code-Knight/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gauravpawar47/Code-Knight/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/gauravpawar47/Code-Knight/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gauravpawar47/Code-Knight/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -653,6 +655,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/gauravpawar47/Code-Knight/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gauravpawar47/Code-Knight/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/gauravpawar47/Code-Knight/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gauravpawar47/Code-Knight/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/gauravpawar47/Code-Knight/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -694,6 +697,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/gauravpawar47/Code-Knight/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2331-intersection-of-multiple-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2331-intersection-of-multiple-arrays) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravpawar47/Code-Knight/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/gauravpawar47/Code-Knight/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2479-meeting-rooms-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gauravpawar47/Code-Knight/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/gauravpawar47/Code-Knight/tree/master/2689-rearranging-fruits) |
