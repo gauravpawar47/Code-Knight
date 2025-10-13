@@ -1,29 +1,28 @@
 class Solution 
 {
-    public boolean isAnagram(String s, String t)
-    {
-        char[] S = s.toCharArray();
-        char[] T = t.toCharArray();
-
-        Arrays.sort(S);
-        Arrays.sort(T);
-
-        return Arrays.equals(S, T);
-    }
-
     public List<String> removeAnagrams(String[] words) 
     {
-        ArrayList<String> list = new ArrayList<>();
-        list.add(words[0]);
-
-        for(int i = 1; i < words.length; i++)
+        int n = words.length;
+        ArrayList<Map<Character, Integer>> freq = new ArrayList<>();
+        for (String w : words) 
         {
-            if(!isAnagram(words[i], list.get(list.size() - 1)))
+            Map<Character, Integer> map = new HashMap<>();
+            for (char c : w.toCharArray())
             {
-                list.add(words[i]);
+                map.put(c, map.getOrDefault(c, 0) + 1);
             }
+            freq.add(map);
         }
 
-        return list;
+        ArrayList<String> ans = new ArrayList<>();
+        ans.add(words[0]);
+        for (int i = 1; i < n; i++) 
+        {
+            if (!freq.get(i).equals(freq.get(i - 1)))
+            {
+                ans.add(words[i]);
+            }
+        }
+        return ans;
     }
 }
