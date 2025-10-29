@@ -47,6 +47,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1797-goal-parser-interpretation](https://github.com/gauravpawar47/Code-Knight/tree/master/1797-goal-parser-interpretation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauravpawar47/Code-Knight/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/gauravpawar47/Code-Knight/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1899-count-items-matching-a-rule](https://github.com/gauravpawar47/Code-Knight/tree/master/1899-count-items-matching-a-rule) |
 | [2032-largest-odd-number-in-string](https://github.com/gauravpawar47/Code-Knight/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/gauravpawar47/Code-Knight/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -265,6 +266,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1834-minimum-number-of-people-to-teach](https://github.com/gauravpawar47/Code-Knight/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gauravpawar47/Code-Knight/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1899-count-items-matching-a-rule](https://github.com/gauravpawar47/Code-Knight/tree/master/1899-count-items-matching-a-rule) |
 | [1917-maximum-average-pass-ratio](https://github.com/gauravpawar47/Code-Knight/tree/master/1917-maximum-average-pass-ratio) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/gauravpawar47/Code-Knight/tree/master/2023-design-movie-rental-system) |
