@@ -365,6 +365,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3827-implement-router](https://github.com/gauravpawar47/Code-Knight/tree/master/3827-implement-router) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gauravpawar47/Code-Knight/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauravpawar47/Code-Knight/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [4008-restore-finishing-order](https://github.com/gauravpawar47/Code-Knight/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/4058-compute-alternating-sum) |
 ## Matrix
 |  |
@@ -611,6 +612,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3827-implement-router](https://github.com/gauravpawar47/Code-Knight/tree/master/3827-implement-router) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/gauravpawar47/Code-Knight/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gauravpawar47/Code-Knight/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4008-restore-finishing-order](https://github.com/gauravpawar47/Code-Knight/tree/master/4008-restore-finishing-order) |
 ## Bitmask
 |  |
 | ------- |
