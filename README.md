@@ -232,6 +232,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0594-longest-harmonious-subsequence](https://github.com/gauravpawar47/Code-Knight/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/gauravpawar47/Code-Knight/tree/master/0679-24-game) |
 | [0692-top-k-frequent-words](https://github.com/gauravpawar47/Code-Knight/tree/master/0692-top-k-frequent-words) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/gauravpawar47/Code-Knight/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0720-longest-word-in-dictionary](https://github.com/gauravpawar47/Code-Knight/tree/master/0720-longest-word-in-dictionary) |
 | [0747-min-cost-climbing-stairs](https://github.com/gauravpawar47/Code-Knight/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0777-toeplitz-matrix) |
