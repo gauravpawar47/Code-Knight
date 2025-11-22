@@ -347,6 +347,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/gauravpawar47/Code-Knight/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/gauravpawar47/Code-Knight/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/gauravpawar47/Code-Knight/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gauravpawar47/Code-Knight/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/gauravpawar47/Code-Knight/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -480,6 +481,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/gauravpawar47/Code-Knight/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/gauravpawar47/Code-Knight/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/gauravpawar47/Code-Knight/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/gauravpawar47/Code-Knight/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
