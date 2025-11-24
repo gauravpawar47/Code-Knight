@@ -107,6 +107,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0526-beautiful-arrangement](https://github.com/gauravpawar47/Code-Knight/tree/master/0526-beautiful-arrangement) |
 | [0800-letter-case-permutation](https://github.com/gauravpawar47/Code-Knight/tree/master/0800-letter-case-permutation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/gauravpawar47/Code-Knight/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/gauravpawar47/Code-Knight/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/gauravpawar47/Code-Knight/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/gauravpawar47/Code-Knight/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gauravpawar47/Code-Knight/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -249,6 +250,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1006-vowel-spellchecker](https://github.com/gauravpawar47/Code-Knight/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/gauravpawar47/Code-Knight/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/gauravpawar47/Code-Knight/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/gauravpawar47/Code-Knight/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/gauravpawar47/Code-Knight/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/gauravpawar47/Code-Knight/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/gauravpawar47/Code-Knight/tree/master/1111-minimum-score-triangulation-of-polygon) |
