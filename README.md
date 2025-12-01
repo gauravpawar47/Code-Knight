@@ -300,6 +300,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2106-find-greatest-common-divisor-of-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gauravpawar47/Code-Knight/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/gauravpawar47/Code-Knight/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/gauravpawar47/Code-Knight/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2169-simple-bank-system](https://github.com/gauravpawar47/Code-Knight/tree/master/2169-simple-bank-system) |
@@ -770,6 +771,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gauravpawar47/Code-Knight/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/gauravpawar47/Code-Knight/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/gauravpawar47/Code-Knight/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/gauravpawar47/Code-Knight/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gauravpawar47/Code-Knight/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -816,6 +818,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/gauravpawar47/Code-Knight/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/gauravpawar47/Code-Knight/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/gauravpawar47/Code-Knight/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gauravpawar47/Code-Knight/tree/master/2215-finding-3-digit-even-numbers) |
@@ -869,6 +872,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2032-largest-odd-number-in-string](https://github.com/gauravpawar47/Code-Knight/tree/master/2032-largest-odd-number-in-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/gauravpawar47/Code-Knight/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauravpawar47/Code-Knight/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/gauravpawar47/Code-Knight/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/gauravpawar47/Code-Knight/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gauravpawar47/Code-Knight/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/2310-minimum-operations-to-halve-array-sum) |
