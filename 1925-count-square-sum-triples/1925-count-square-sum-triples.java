@@ -2,25 +2,19 @@ class Solution
 {
     public int countTriples(int n) 
     {
-        int ssTriplet = 0;
-        for(int i = 1; i <= n - 2; i++)
+        int res = 0;
+        for (int a = 1; a <= n; ++a) 
         {
-            for(int j = i + 1; j <= n - 1; j++)
+            for (int b = 1; b <= n; ++b) 
             {
-                for(int k = j + 1; k <= n; k++)
+                // determine if it meets the requirements
+                int c = (int) Math.sqrt(a * a + b * b + 1.0);
+                if (c <= n && c * c == a * a + b * b) 
                 {
-                    int I = i * i;
-                    int J = j * j;
-                    int K = k * k;
-
-                    if((I + J) == K)
-                    {
-                        ssTriplet += 2;
-                    }
+                    ++res;
                 }
             }
-        }    
-
-        return ssTriplet;
+        }
+        return res;
     }
 }
