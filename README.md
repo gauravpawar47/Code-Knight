@@ -34,6 +34,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0812-rotate-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0812-rotate-string) |
 | [0857-positions-of-large-groups](https://github.com/gauravpawar47/Code-Knight/tree/master/0857-positions-of-large-groups) |
 | [0868-push-dominoes](https://github.com/gauravpawar47/Code-Knight/tree/master/0868-push-dominoes) |
+| [0944-delete-columns-to-make-sorted](https://github.com/gauravpawar47/Code-Knight/tree/master/0944-delete-columns-to-make-sorted) |
 | [0981-delete-columns-to-make-sorted](https://github.com/gauravpawar47/Code-Knight/tree/master/0981-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/gauravpawar47/Code-Knight/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/gauravpawar47/Code-Knight/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -253,6 +254,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0797-rabbits-in-forest](https://github.com/gauravpawar47/Code-Knight/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/gauravpawar47/Code-Knight/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/gauravpawar47/Code-Knight/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/gauravpawar47/Code-Knight/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/gauravpawar47/Code-Knight/tree/master/0945-snakes-and-ladders) |
 | [0981-delete-columns-to-make-sorted](https://github.com/gauravpawar47/Code-Knight/tree/master/0981-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/gauravpawar47/Code-Knight/tree/master/1006-vowel-spellchecker) |
