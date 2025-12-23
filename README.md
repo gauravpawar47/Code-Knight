@@ -307,6 +307,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/gauravpawar47/Code-Knight/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/gauravpawar47/Code-Knight/tree/master/2048-build-array-from-permutation) |
+| [2054-two-best-non-overlapping-events](https://github.com/gauravpawar47/Code-Knight/tree/master/2054-two-best-non-overlapping-events) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/gauravpawar47/Code-Knight/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/gauravpawar47/Code-Knight/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -592,6 +593,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/gauravpawar47/Code-Knight/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/gauravpawar47/Code-Knight/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2054-two-best-non-overlapping-events](https://github.com/gauravpawar47/Code-Knight/tree/master/2054-two-best-non-overlapping-events) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/gauravpawar47/Code-Knight/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauravpawar47/Code-Knight/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/gauravpawar47/Code-Knight/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -818,6 +820,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gauravpawar47/Code-Knight/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/gauravpawar47/Code-Knight/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2054-two-best-non-overlapping-events](https://github.com/gauravpawar47/Code-Knight/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/gauravpawar47/Code-Knight/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/gauravpawar47/Code-Knight/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -864,6 +867,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gauravpawar47/Code-Knight/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/gauravpawar47/Code-Knight/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2054-two-best-non-overlapping-events](https://github.com/gauravpawar47/Code-Knight/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/gauravpawar47/Code-Knight/tree/master/2092-find-all-people-with-secret) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/gauravpawar47/Code-Knight/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -1117,6 +1121,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1612-avoid-flood-in-the-city](https://github.com/gauravpawar47/Code-Knight/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/gauravpawar47/Code-Knight/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/gauravpawar47/Code-Knight/tree/master/2023-design-movie-rental-system) |
+| [2054-two-best-non-overlapping-events](https://github.com/gauravpawar47/Code-Knight/tree/master/2054-two-best-non-overlapping-events) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/gauravpawar47/Code-Knight/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
