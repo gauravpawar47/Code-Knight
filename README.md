@@ -26,6 +26,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0438-find-all-anagrams-in-a-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravpawar47/Code-Knight/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/gauravpawar47/Code-Knight/tree/master/0474-ones-and-zeroes) |
+| [0482-license-key-formatting](https://github.com/gauravpawar47/Code-Knight/tree/master/0482-license-key-formatting) |
 | [0516-longest-palindromic-subsequence](https://github.com/gauravpawar47/Code-Knight/tree/master/0516-longest-palindromic-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/gauravpawar47/Code-Knight/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/gauravpawar47/Code-Knight/tree/master/0720-longest-word-in-dictionary) |
