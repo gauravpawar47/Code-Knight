@@ -160,6 +160,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | ------- |
 | [0113-path-sum-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0113-path-sum-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauravpawar47/Code-Knight/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gauravpawar47/Code-Knight/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -178,6 +179,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0754-cracking-the-safe](https://github.com/gauravpawar47/Code-Knight/tree/master/0754-cracking-the-safe) |
 | [0794-swim-in-rising-water](https://github.com/gauravpawar47/Code-Knight/tree/master/0794-swim-in-rising-water) |
 | [0813-all-paths-from-source-to-target](https://github.com/gauravpawar47/Code-Knight/tree/master/0813-all-paths-from-source-to-target) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gauravpawar47/Code-Knight/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/gauravpawar47/Code-Knight/tree/master/0871-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -197,6 +199,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | ------- |
 | [0113-path-sum-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0113-path-sum-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauravpawar47/Code-Knight/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gauravpawar47/Code-Knight/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Array
@@ -689,6 +692,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0756-pyramid-transition-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0756-pyramid-transition-matrix) |
 | [0797-rabbits-in-forest](https://github.com/gauravpawar47/Code-Knight/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gauravpawar47/Code-Knight/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/gauravpawar47/Code-Knight/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/gauravpawar47/Code-Knight/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -778,6 +782,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0547-number-of-provinces](https://github.com/gauravpawar47/Code-Knight/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/gauravpawar47/Code-Knight/tree/master/0794-swim-in-rising-water) |
 | [0813-all-paths-from-source-to-target](https://github.com/gauravpawar47/Code-Knight/tree/master/0813-all-paths-from-source-to-target) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gauravpawar47/Code-Knight/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/gauravpawar47/Code-Knight/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/gauravpawar47/Code-Knight/tree/master/0945-snakes-and-ladders) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
