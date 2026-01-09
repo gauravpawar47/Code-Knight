@@ -13,51 +13,75 @@
  *     }
  * }
  */
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution 
 {
-    HashMap<Integer, Integer> map = new HashMap<>();
-    int maxDepth = Integer.MIN_VALUE;
-
-    public void depth(TreeNode root, int depth)
-    {
-        // Step 1 : Base-Case
-        if(root == null)
-        {
-            return;
-        }
-
-        // Step 2 : Kaam
-        maxDepth = Math.max(maxDepth, depth);
-        map.put(root.val, depth);
-
-        // Step 3 : Inner Function Call
-        depth(root.left, depth + 1);
-        depth(root.right, depth + 1);
-    }
-
-    public TreeNode LCS(TreeNode root)
-    {
-        if(root == null || map.getOrDefault(root.val, -1) == maxDepth)
-        {
-            return root;
-        }
-
-        TreeNode left = LCS(root.left);
-        TreeNode right = LCS(root.right);
-
-        if(left != null && right != null)
-        {
-            return root;
-        }
-        else
-        {
-            return left != null ? left : right;
-        }
-    }
-
+    HashMap<TreeNode, Integer> depth;
+    int max_depth;
     public TreeNode subtreeWithAllDeepest(TreeNode root) 
     {
-        depth(root, 0);
-        return LCS(root);
+        depth = new HashMap();
+        depth.put(null, -1);
+        dfs(root, null);
+        max_depth = -1;
+
+        for (Integer d: depth.values())
+        {
+            max_depth = Math.max(max_depth, d);
+        }
+
+        return answer(root);
+    }
+
+    public void dfs(TreeNode node, TreeNode parent) 
+    {
+        if (node != null) 
+        {
+            depth.put(node, depth.get(parent) + 1);
+            dfs(node.left, node);
+            dfs(node.right, node);
+        }
+    }
+
+    public TreeNode answer(TreeNode node) 
+    {
+        if (node == null || depth.get(node) == max_depth)
+        {
+            return node;
+        }
+
+        TreeNode L = answer(node.left);
+        TreeNode R = answer(node.right);
+
+        if (L != null && R != null)
+        {
+            return node;
+        }
+
+        if (L != null)
+        {
+            return L;
+        }
+
+        if (R != null)
+        {
+            return R;
+        }
+         
+        return null;
     }
 }
