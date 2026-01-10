@@ -29,6 +29,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0482-license-key-formatting](https://github.com/gauravpawar47/Code-Knight/tree/master/0482-license-key-formatting) |
 | [0516-longest-palindromic-subsequence](https://github.com/gauravpawar47/Code-Knight/tree/master/0516-longest-palindromic-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/gauravpawar47/Code-Knight/tree/master/0692-top-k-frequent-words) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/gauravpawar47/Code-Knight/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/gauravpawar47/Code-Knight/tree/master/0720-longest-word-in-dictionary) |
 | [0730-count-different-palindromic-subsequences](https://github.com/gauravpawar47/Code-Knight/tree/master/0730-count-different-palindromic-subsequences) |
 | [0756-pyramid-transition-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0756-pyramid-transition-matrix) |
@@ -605,6 +606,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0494-target-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/gauravpawar47/Code-Knight/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/gauravpawar47/Code-Knight/tree/master/0526-beautiful-arrangement) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/gauravpawar47/Code-Knight/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0730-count-different-palindromic-subsequences](https://github.com/gauravpawar47/Code-Knight/tree/master/0730-count-different-palindromic-subsequences) |
 | [0747-min-cost-climbing-stairs](https://github.com/gauravpawar47/Code-Knight/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/gauravpawar47/Code-Knight/tree/master/0806-domino-and-tromino-tiling) |
