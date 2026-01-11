@@ -228,6 +228,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0075-sort-colors](https://github.com/gauravpawar47/Code-Knight/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/gauravpawar47/Code-Knight/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/gauravpawar47/Code-Knight/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/gauravpawar47/Code-Knight/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0119-pascals-triangle-ii) |
@@ -470,6 +471,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0063-unique-paths-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/gauravpawar47/Code-Knight/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/gauravpawar47/Code-Knight/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gauravpawar47/Code-Knight/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/gauravpawar47/Code-Knight/tree/master/0498-diagonal-traverse) |
@@ -593,6 +595,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0005-longest-palindromic-substring](https://github.com/gauravpawar47/Code-Knight/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/gauravpawar47/Code-Knight/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0063-unique-paths-ii) |
+| [0085-maximal-rectangle](https://github.com/gauravpawar47/Code-Knight/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/gauravpawar47/Code-Knight/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/gauravpawar47/Code-Knight/tree/master/0120-triangle) |
@@ -1347,6 +1350,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/gauravpawar47/Code-Knight/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/gauravpawar47/Code-Knight/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/gauravpawar47/Code-Knight/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gauravpawar47/Code-Knight/tree/master/0232-implement-queue-using-stacks) |
@@ -1419,6 +1423,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/gauravpawar47/Code-Knight/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/gauravpawar47/Code-Knight/tree/master/0496-next-greater-element-i) |
 | [1628-count-submatrices-with-all-ones](https://github.com/gauravpawar47/Code-Knight/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/gauravpawar47/Code-Knight/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
