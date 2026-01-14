@@ -415,6 +415,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3432-count-partitions-with-even-sum-difference](https://github.com/gauravpawar47/Code-Knight/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/gauravpawar47/Code-Knight/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gauravpawar47/Code-Knight/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3454-separate-squares-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3454-separate-squares-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -885,6 +886,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2699-count-the-number-of-fair-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gauravpawar47/Code-Knight/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3454-separate-squares-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -1401,6 +1403,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/0493-reverse-pairs) |
+| [3454-separate-squares-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3454-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/gauravpawar47/Code-Knight/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
@@ -1442,4 +1445,8 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3625-count-number-of-trapezoids-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
