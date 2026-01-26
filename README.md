@@ -293,6 +293,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/gauravpawar47/Code-Knight/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1127-last-stone-weight](https://github.com/gauravpawar47/Code-Knight/tree/master/1127-last-stone-weight) |
 | [1130-last-stone-weight-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1130-last-stone-weight-ii) |
+| [1200-minimum-absolute-difference](https://github.com/gauravpawar47/Code-Knight/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/gauravpawar47/Code-Knight/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/gauravpawar47/Code-Knight/tree/master/1266-minimum-time-visiting-all-points) |
@@ -936,6 +937,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0900-reordered-power-of-2](https://github.com/gauravpawar47/Code-Knight/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/gauravpawar47/Code-Knight/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/gauravpawar47/Code-Knight/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1200-minimum-absolute-difference](https://github.com/gauravpawar47/Code-Knight/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/gauravpawar47/Code-Knight/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauravpawar47/Code-Knight/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/gauravpawar47/Code-Knight/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
