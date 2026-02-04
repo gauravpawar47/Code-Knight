@@ -3,7 +3,7 @@ class Solution
     public long maxSumTrionic(int[] nums) 
     {    
         int n = nums.length;
-        long res= -1 * (long)1e16;
+        long res = -1 * (long)1e16;
 
         for(int i = 1; i < n - 2; i++)
         {
