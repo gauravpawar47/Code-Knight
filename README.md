@@ -429,6 +429,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/gauravpawar47/Code-Knight/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/3330-modify-the-matrix) |
+| [3379-transformed-array](https://github.com/gauravpawar47/Code-Knight/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/gauravpawar47/Code-Knight/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/gauravpawar47/Code-Knight/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/gauravpawar47/Code-Knight/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -1081,6 +1082,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2479-meeting-rooms-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/2479-meeting-rooms-iii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3336-water-bottles-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/gauravpawar47/Code-Knight/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/gauravpawar47/Code-Knight/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
