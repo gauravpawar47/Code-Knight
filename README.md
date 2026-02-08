@@ -164,6 +164,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0113-path-sum-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauravpawar47/Code-Knight/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gauravpawar47/Code-Knight/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -178,6 +179,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0113-path-sum-ii) |
 | [0386-lexicographical-numbers](https://github.com/gauravpawar47/Code-Knight/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gauravpawar47/Code-Knight/tree/master/0417-pacific-atlantic-water-flow) |
@@ -203,6 +205,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0113-path-sum-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauravpawar47/Code-Knight/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gauravpawar47/Code-Knight/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
