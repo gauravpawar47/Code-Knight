@@ -14,6 +14,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/gauravpawar47/Code-Knight/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/gauravpawar47/Code-Knight/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/gauravpawar47/Code-Knight/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/gauravpawar47/Code-Knight/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/gauravpawar47/Code-Knight/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/gauravpawar47/Code-Knight/tree/master/0139-word-break) |
@@ -112,6 +113,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/gauravpawar47/Code-Knight/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/gauravpawar47/Code-Knight/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/gauravpawar47/Code-Knight/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/gauravpawar47/Code-Knight/tree/master/0231-power-of-two) |
@@ -550,6 +552,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0013-roman-to-integer](https://github.com/gauravpawar47/Code-Knight/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/gauravpawar47/Code-Knight/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/gauravpawar47/Code-Knight/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/gauravpawar47/Code-Knight/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/gauravpawar47/Code-Knight/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/gauravpawar47/Code-Knight/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0189-rotate-array) |
@@ -1084,6 +1087,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/gauravpawar47/Code-Knight/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/gauravpawar47/Code-Knight/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/gauravpawar47/Code-Knight/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/gauravpawar47/Code-Knight/tree/master/1806-count-of-matches-in-tournament) |
