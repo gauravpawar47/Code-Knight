@@ -2,19 +2,19 @@ class Solution
 {
     public int removeDuplicates(int[] nums) 
     {
-        LinkedHashSet<Integer> set = new LinkedHashSet<>();
-        for(int n : nums)
+        TreeSet<Integer> hashed = new TreeSet<>();
+        for(int num : nums)
         {
-            set.add(n);
-        }
+            hashed.add(num);
+        }    
 
         int i = 0;
-        for(int n : set)
+        for(int num : hashed)
         {
-            nums[i] = n;
+            nums[i] = num;
             i++;
-        }       
+        }
 
-        return set.size();
+        return hashed.size();
     }
 }
