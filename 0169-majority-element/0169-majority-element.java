@@ -2,17 +2,18 @@ class Solution
 {
     public int majorityElement(int[] nums) 
     {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        for(int n : nums)
+        TreeMap<Integer, Integer> map = new TreeMap<>();
+        for(int num : nums)
         {
-            map.put(n, map.getOrDefault(n, 0) + 1);
+            map.put(num, map.getOrDefault(num, 0) + 1);
         }    
 
-        for(Map.Entry<Integer, Integer> entry : map.entrySet())
+        int n = nums.length;
+        for(int key : map.keySet())
         {
-            if(entry.getValue() > (nums.length / 2))
+            if(map.get(key) > n / 2)
             {
-                return entry.getKey();
+                return key;
             }
         }
 
