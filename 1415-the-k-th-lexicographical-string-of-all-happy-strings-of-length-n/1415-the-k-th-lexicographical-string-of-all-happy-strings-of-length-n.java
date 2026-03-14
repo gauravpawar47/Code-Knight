@@ -1,27 +1,35 @@
-public class Solution
+class Solution 
 {
-    public String getHappyString(int n, int k)
+    ArrayList<String> happyStrings = new ArrayList<>();
+    public String getHappyString(int n, int k) 
     {
-        List<String> happyStrings = new ArrayList<>();
-        backtrack(n, "", happyStrings);
-        
-        return k > happyStrings.size() ? "" : happyStrings.get(k - 1);
+        String currentString = "";
+        generateHappyStrings(n, currentString);
+
+        if (happyStrings.size() < k)
+        {
+            return "";
+        } 
+
+        return happyStrings.get(k - 1);
     }
 
-    private void backtrack(int n, String curr, List<String> happyStrings)
+    public void generateHappyStrings(int n, String currentString) 
     {
-        if (curr.length() == n)
+        if (currentString.length() == n) 
         {
-            happyStrings.add(curr);
+            happyStrings.add(currentString);
             return;
         }
 
-        for (char ch : new char[]{'a', 'b', 'c'})
+        for (char currentChar = 'a'; currentChar <= 'c'; currentChar++) 
         {
-            if (curr.isEmpty() || curr.charAt(curr.length() - 1) != ch)
+            if (currentString.length() > 0 && currentString.charAt(currentString.length() - 1) == currentChar) 
             {
-                backtrack(n, curr + ch, happyStrings);
+                continue;
             }
+            
+            generateHappyStrings(n, currentString + currentChar);
         }
     }
 }
