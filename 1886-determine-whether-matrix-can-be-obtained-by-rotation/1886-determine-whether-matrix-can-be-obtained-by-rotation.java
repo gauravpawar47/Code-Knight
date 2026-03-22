@@ -1,50 +1,45 @@
-class Solution
+class Solution 
 {
-    public boolean isMatrixEqual(int[][] mat, int[][] target)
+    public boolean findRotation(int[][] mat, int[][] target) 
     {
         int n = mat.length;
-        for(int i = 0; i < n; i++)
+        for (int k = 0; k < 4; k++) 
         {
-            for(int j = 0; j < n; j++)
+            for (int i = 0; i < n / 2; i++) 
             {
-                if(mat[i][j] != target[i][j])
+                for (int j = 0; j < (n + 1) / 2; j++) 
+                {
+                    int temp = mat[i][j];
+                    mat[i][j] = mat[n - 1 - j][i];
+                    mat[n - 1 - j][i] = mat[n - 1 - i][n - 1 - j];
+                    mat[n - 1 - i][n - 1 - j] = mat[j][n - 1 - i];
+                    mat[j][n - 1 - i] = temp;
+                }
+            }
+
+            if (isEqual(mat, target)) 
+            {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    public boolean isEqual(int[][] mat, int[][] target) 
+    {
+        int n = mat.length;
+        for (int i = 0; i < n; i++) 
+        {
+            for (int j = 0; j < n; j++) 
+            {
+                if (mat[i][j] != target[i][j]) 
                 {
                     return false;
                 }
             }
         }
-
+        
         return true;
-    }
-
-    public int[][] rotate(int[][] mat)
-    {
-        int n = mat.length;
-        int[][] result = new int[n][n];
-
-        for(int i = 0; i < n; i++)
-        {
-            for(int j = 0; j < n; j++)
-            {
-                result[j][n - i - 1] = mat[i][j];
-            }
-        }
-
-        return result;
-    }
-
-    public boolean findRotation(int[][] mat, int[][] target)
-    {
-        int n = mat.length;
-        for(int i = 0; i < 4; i++)
-        {
-            if(isMatrixEqual(mat, target))
-            {
-                return true;
-            }
-            mat = rotate(mat);
-        }
-
-        return false;
     }
 }
