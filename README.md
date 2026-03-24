@@ -451,6 +451,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2836-neither-minimum-nor-maximum](https://github.com/gauravpawar47/Code-Knight/tree/master/2836-neither-minimum-nor-maximum) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2906-construct-product-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/gauravpawar47/Code-Knight/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -581,6 +582,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2398-check-if-matrix-is-x-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/gauravpawar47/Code-Knight/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/gauravpawar47/Code-Knight/tree/master/2625-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gauravpawar47/Code-Knight/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauravpawar47/Code-Knight/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3330-modify-the-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/3330-modify-the-matrix) |
@@ -1216,6 +1218,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2529-range-product-queries-of-powers](https://github.com/gauravpawar47/Code-Knight/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/gauravpawar47/Code-Knight/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/gauravpawar47/Code-Knight/tree/master/2625-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2915-count-of-interesting-subarrays) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gauravpawar47/Code-Knight/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
