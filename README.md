@@ -454,6 +454,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2906-construct-product-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauravpawar47/Code-Knight/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/gauravpawar47/Code-Knight/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/gauravpawar47/Code-Knight/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -584,6 +585,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/gauravpawar47/Code-Knight/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/gauravpawar47/Code-Knight/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauravpawar47/Code-Knight/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gauravpawar47/Code-Knight/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauravpawar47/Code-Knight/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3330-modify-the-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/3330-modify-the-matrix) |
@@ -665,6 +667,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2630-alternating-digit-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/2630-alternating-digit-sum) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/gauravpawar47/Code-Knight/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/gauravpawar47/Code-Knight/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauravpawar47/Code-Knight/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/gauravpawar47/Code-Knight/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/gauravpawar47/Code-Knight/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/gauravpawar47/Code-Knight/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -1191,6 +1194,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2408-number-of-people-aware-of-a-secret](https://github.com/gauravpawar47/Code-Knight/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/2479-meeting-rooms-iii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauravpawar47/Code-Knight/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/gauravpawar47/Code-Knight/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/gauravpawar47/Code-Knight/tree/master/3433-count-mentions-per-user) |
