@@ -91,6 +91,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2483-minimum-penalty-for-a-shop](https://github.com/gauravpawar47/Code-Knight/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gauravpawar47/Code-Knight/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2573-find-the-string-with-lcp](https://github.com/gauravpawar47/Code-Knight/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/gauravpawar47/Code-Knight/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/gauravpawar47/Code-Knight/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/gauravpawar47/Code-Knight/tree/master/2976-minimum-cost-to-convert-string-i) |
