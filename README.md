@@ -453,6 +453,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2689-rearranging-fruits](https://github.com/gauravpawar47/Code-Knight/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2751-robot-collisions](https://github.com/gauravpawar47/Code-Knight/tree/master/2751-robot-collisions) |
 | [2836-neither-minimum-nor-maximum](https://github.com/gauravpawar47/Code-Knight/tree/master/2836-neither-minimum-nor-maximum) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -1093,6 +1094,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gauravpawar47/Code-Knight/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/gauravpawar47/Code-Knight/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2751-robot-collisions](https://github.com/gauravpawar47/Code-Knight/tree/master/2751-robot-collisions) |
 | [2836-neither-minimum-nor-maximum](https://github.com/gauravpawar47/Code-Knight/tree/master/2836-neither-minimum-nor-maximum) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/gauravpawar47/Code-Knight/tree/master/2887-sort-vowels-in-a-string) |
@@ -1207,6 +1209,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2402-meeting-rooms-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/gauravpawar47/Code-Knight/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/2479-meeting-rooms-iii) |
+| [2751-robot-collisions](https://github.com/gauravpawar47/Code-Knight/tree/master/2751-robot-collisions) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauravpawar47/Code-Knight/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3336-water-bottles-ii) |
@@ -1591,6 +1594,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2211-count-collisions-on-a-road](https://github.com/gauravpawar47/Code-Knight/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gauravpawar47/Code-Knight/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2751-robot-collisions](https://github.com/gauravpawar47/Code-Knight/tree/master/2751-robot-collisions) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gauravpawar47/Code-Knight/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Brainteaser
 |  |
