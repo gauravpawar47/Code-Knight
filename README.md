@@ -29,6 +29,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0474-ones-and-zeroes](https://github.com/gauravpawar47/Code-Knight/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/gauravpawar47/Code-Knight/tree/master/0482-license-key-formatting) |
 | [0516-longest-palindromic-subsequence](https://github.com/gauravpawar47/Code-Knight/tree/master/0516-longest-palindromic-subsequence) |
+| [0657-robot-return-to-origin](https://github.com/gauravpawar47/Code-Knight/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/gauravpawar47/Code-Knight/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/gauravpawar47/Code-Knight/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/gauravpawar47/Code-Knight/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -1199,6 +1200,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0054-spiral-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/gauravpawar47/Code-Knight/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/gauravpawar47/Code-Knight/tree/master/0498-diagonal-traverse) |
+| [0657-robot-return-to-origin](https://github.com/gauravpawar47/Code-Knight/tree/master/0657-robot-return-to-origin) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/gauravpawar47/Code-Knight/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gauravpawar47/Code-Knight/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/gauravpawar47/Code-Knight/tree/master/1642-water-bottles) |
