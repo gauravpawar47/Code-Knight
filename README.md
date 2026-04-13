@@ -385,6 +385,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1775-design-an-ordered-stream](https://github.com/gauravpawar47/Code-Knight/tree/master/1775-design-an-ordered-stream) |
 | [1813-maximum-erasure-value](https://github.com/gauravpawar47/Code-Knight/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/gauravpawar47/Code-Knight/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/gauravpawar47/Code-Knight/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravpawar47/Code-Knight/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gauravpawar47/Code-Knight/tree/master/1878-check-if-array-is-sorted-and-rotated) |
