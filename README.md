@@ -408,6 +408,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gauravpawar47/Code-Knight/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/gauravpawar47/Code-Knight/tree/master/2023-design-movie-rental-system) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2048-build-array-from-permutation](https://github.com/gauravpawar47/Code-Knight/tree/master/2048-build-array-from-permutation) |
 | [2054-two-best-non-overlapping-events](https://github.com/gauravpawar47/Code-Knight/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/gauravpawar47/Code-Knight/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -614,6 +615,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1895-largest-magic-square](https://github.com/gauravpawar47/Code-Knight/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/gauravpawar47/Code-Knight/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/1975-maximum-matrix-sum) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauravpawar47/Code-Knight/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/gauravpawar47/Code-Knight/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -689,6 +691,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/gauravpawar47/Code-Knight/tree/master/1925-count-square-sum-triples) |
 | [2032-largest-odd-number-in-string](https://github.com/gauravpawar47/Code-Knight/tree/master/2032-largest-odd-number-in-string) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauravpawar47/Code-Knight/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/gauravpawar47/Code-Knight/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -1127,6 +1130,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravpawar47/Code-Knight/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gauravpawar47/Code-Knight/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/gauravpawar47/Code-Knight/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/gauravpawar47/Code-Knight/tree/master/2092-find-all-people-with-secret) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
