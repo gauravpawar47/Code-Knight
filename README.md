@@ -667,6 +667,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0679-24-game](https://github.com/gauravpawar47/Code-Knight/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/gauravpawar47/Code-Knight/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/gauravpawar47/Code-Knight/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/gauravpawar47/Code-Knight/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/gauravpawar47/Code-Knight/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/gauravpawar47/Code-Knight/tree/master/0826-soup-servings) |
 | [0840-magic-squares-in-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/0840-magic-squares-in-grid) |
@@ -773,6 +774,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/gauravpawar47/Code-Knight/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0730-count-different-palindromic-subsequences](https://github.com/gauravpawar47/Code-Knight/tree/master/0730-count-different-palindromic-subsequences) |
 | [0747-min-cost-climbing-stairs](https://github.com/gauravpawar47/Code-Knight/tree/master/0747-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/gauravpawar47/Code-Knight/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/gauravpawar47/Code-Knight/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/gauravpawar47/Code-Knight/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/gauravpawar47/Code-Knight/tree/master/0826-soup-servings) |
