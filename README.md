@@ -37,6 +37,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0730-count-different-palindromic-subsequences](https://github.com/gauravpawar47/Code-Knight/tree/master/0730-count-different-palindromic-subsequences) |
 | [0756-pyramid-transition-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0796-rotate-string) |
 | [0800-letter-case-permutation](https://github.com/gauravpawar47/Code-Knight/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0812-rotate-string) |
 | [0857-positions-of-large-groups](https://github.com/gauravpawar47/Code-Knight/tree/master/0857-positions-of-large-groups) |
@@ -1731,6 +1732,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0812-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/gauravpawar47/Code-Knight/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Hash Function
