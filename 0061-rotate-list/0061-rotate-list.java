@@ -12,47 +12,42 @@ class Solution
 {
     public ListNode rotateRight(ListNode head, int k) 
     {
-        if(head == null || head.next == null || k == 0)
+        if (head == null || head.next == null || k == 0) 
         {
             return head;
         }
 
-        int size = 0;
-        ListNode temp = head;
-
-        while(temp != null)
+        // Step 1: find length and tail
+        int n = 1;
+        ListNode tail = head;
+        while (tail.next != null) 
         {
-            size++;
-            temp = temp.next;
+            tail = tail.next;
+            n++;
         }
 
-        k = k % size;
-        if(k == 0)
+        // Step 2: reduce k
+        k = k % n;
+        if (k == 0) 
         {
             return head;
         }
 
-        int n = size - k;
-        ListNode prev = null;
-        temp = head;
+        // Step 3: make circular
+        tail.next = head;
 
-        while(n > 0)
+        // Step 4: find new tail
+        int steps = n - k;
+        ListNode newTail = head;
+        for (int i = 1; i < steps; i++) 
         {
-            prev = temp;
-            temp = temp.next;
-            n--;
+            newTail = newTail.next;
         }
 
-        prev.next = null;
-        ListNode newHead = temp;
-        ListNode curr = newHead;
+        // Step 5: break
+        ListNode newHead = newTail.next;
+        newTail.next = null;
 
-        while(curr.next != null)
-        {
-            curr = curr.next;
-        }
-
-        curr.next = head;
         return newHead;
     }
 }
