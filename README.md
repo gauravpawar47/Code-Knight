@@ -465,6 +465,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gauravpawar47/Code-Knight/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-range-product-queries-of-powers](https://github.com/gauravpawar47/Code-Knight/tree/master/2529-range-product-queries-of-powers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/gauravpawar47/Code-Knight/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/gauravpawar47/Code-Knight/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/gauravpawar47/Code-Knight/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -1294,6 +1295,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2402-meeting-rooms-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/gauravpawar47/Code-Knight/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/2479-meeting-rooms-iii) |
+| [2553-separate-the-digits-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/gauravpawar47/Code-Knight/tree/master/2751-robot-collisions) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauravpawar47/Code-Knight/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
