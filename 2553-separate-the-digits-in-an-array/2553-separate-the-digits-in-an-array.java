@@ -1,28 +1,27 @@
-class Solution
+class Solution 
 {
-    public void separation(int num, ArrayList<Integer> list)
+    public int[] separateDigits(int[] nums) 
     {
-        String numStr = String.valueOf(num);
-        for(int i = 0; i < numStr.length(); i++)
+        ArrayList<Integer> res = new ArrayList<>();
+        for (int x : nums) 
         {
-            list.add(numStr.charAt(i) - '0');
-        }
-    }
-
-    public int[] separateDigits(int[] nums)
-    {
-        ArrayList<Integer> list = new ArrayList<>();
-        for(int i = 0; i < nums.length; i++)
-        {
-            separation(nums[i], list);
-        }
-
-        int[] result = new int[list.size()];
-        for(int i = 0; i < result.length; i++)
-        {
-            result[i] = list.get(i);
+            ArrayList<Integer> tmp = new ArrayList<>();
+            while (x > 0) 
+            {
+                tmp.add(x % 10);
+                x /= 10;
+            }
+            for (int i = tmp.size() - 1; i >= 0; i--) 
+            {
+                res.add(tmp.get(i));
+            }
         }
 
+        int[] result = new int[res.size()];
+        for (int i = 0; i < res.size(); i++) 
+        {
+            result[i] = res.get(i);
+        }
         return result;
     }
 }
