@@ -1,44 +1,48 @@
 class Solution 
 {
-    public int helper(int[] arr, int si, int ei, int target)
-    {
-        if(si > ei)
-        {
-            return -1;
-        }
-
-        int mid = si + (ei - si) / 2;
-        if(arr[mid] == target)
-        {
-            return mid;
-        }
-
-        if(arr[si] <= arr[mid])
-        {
-            if(arr[si] <= target && target <= arr[mid])
-            {
-                return helper(arr, si, mid - 1, target);
-            }
-            else
-            {
-                return helper(arr, mid + 1, ei, target);
-            }
-        }
-        else
-        {
-            if(arr[mid] <= target && target <= arr[ei])
-            {
-                return helper(arr, mid + 1, ei, target);
-            }
-            else
-            {
-                return helper(arr, si, mid - 1, target);
-            }
-        }
-    }
-
     public int search(int[] nums, int target) 
     {
-        return helper(nums, 0, nums.length - 1, target);
+        int n = nums.length;
+        int lo = 0;
+        int hi = n - 1;
+
+        while (lo < hi) 
+        {
+            int mid = (lo + hi) / 2;
+            
+            if (nums[mid] > nums[n - 1])
+            {
+                lo = mid + 1;
+            } 
+            else
+            {
+                hi = mid;
+            } 
+        }
+
+        int rot = lo;
+        lo = 0; hi = n - 1;
+
+        while (lo <= hi) 
+        {
+            int mid = (lo + hi) / 2;
+            int real = (mid + rot) % n;
+
+            if (nums[real] == target)
+            {
+                return real;
+            }
+            
+            if (nums[real] < target) 
+            {
+                lo = mid + 1;
+            }
+            else
+            {
+                hi = mid - 1;
+            } 
+        }
+
+        return -1;
     }
 }
