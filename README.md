@@ -398,6 +398,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1706-min-cost-to-connect-all-points](https://github.com/gauravpawar47/Code-Knight/tree/master/1706-min-cost-to-connect-all-points) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauravpawar47/Code-Knight/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/gauravpawar47/Code-Knight/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/gauravpawar47/Code-Knight/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1775-design-an-ordered-stream](https://github.com/gauravpawar47/Code-Knight/tree/master/1775-design-an-ordered-stream) |
 | [1813-maximum-erasure-value](https://github.com/gauravpawar47/Code-Knight/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/gauravpawar47/Code-Knight/tree/master/1834-minimum-number-of-people-to-teach) |
