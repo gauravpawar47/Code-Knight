@@ -70,6 +70,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gauravpawar47/Code-Knight/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1797-goal-parser-interpretation](https://github.com/gauravpawar47/Code-Knight/tree/master/1797-goal-parser-interpretation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauravpawar47/Code-Knight/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1871-jump-game-vii](https://github.com/gauravpawar47/Code-Knight/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gauravpawar47/Code-Knight/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/gauravpawar47/Code-Knight/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1899-count-items-matching-a-rule](https://github.com/gauravpawar47/Code-Knight/tree/master/1899-count-items-matching-a-rule) |
@@ -824,6 +825,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/gauravpawar47/Code-Knight/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/gauravpawar47/Code-Knight/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1871-jump-game-vii](https://github.com/gauravpawar47/Code-Knight/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gauravpawar47/Code-Knight/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/gauravpawar47/Code-Knight/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/gauravpawar47/Code-Knight/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -1350,6 +1352,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1590-make-sum-divisible-by-p](https://github.com/gauravpawar47/Code-Knight/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/gauravpawar47/Code-Knight/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/gauravpawar47/Code-Knight/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1871-jump-game-vii](https://github.com/gauravpawar47/Code-Knight/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/gauravpawar47/Code-Knight/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gauravpawar47/Code-Knight/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1416,6 +1419,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0940-fruit-into-baskets](https://github.com/gauravpawar47/Code-Knight/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gauravpawar47/Code-Knight/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/gauravpawar47/Code-Knight/tree/master/1813-maximum-erasure-value) |
+| [1871-jump-game-vii](https://github.com/gauravpawar47/Code-Knight/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gauravpawar47/Code-Knight/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gauravpawar47/Code-Knight/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gauravpawar47/Code-Knight/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
