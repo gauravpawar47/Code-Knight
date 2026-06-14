@@ -12,46 +12,27 @@ class Solution
 {
     public int pairSum(ListNode head) 
     {
-        // Step 1 : Find the Middle Using Slow and Fast Pointer
         ListNode slow = head;
         ListNode fast = head;
-
-        while(slow != null && fast != null)
-        {
-            slow = slow.next;
-            fast = fast.next.next;
-        }
-
-        // Step 2 : Reverse the 2nd Half of Linked List
-        ListNode secondHalf = reverseList(slow);
-
-        // Step 3 : Traverse both Halves and find the next Twin Sum
-        ListNode firstHalf = head;
-        int maxTwinSum = 0;
-
-        while(secondHalf != null)
-        {
-            int twinSum = firstHalf.val + secondHalf.val;
-            maxTwinSum = Math.max(maxTwinSum, twinSum);
-
-            secondHalf = secondHalf.next;
-            firstHalf = firstHalf.next;
-        }
-
-        return maxTwinSum;
-    }
-
-    public ListNode reverseList(ListNode head)
-    {
         ListNode prev = null;
-        while(head != null)
+
+        while (fast != null && fast.next != null) 
         {
-            ListNode temp = head.next;
-            head.next = prev;
-            prev = head;
-            head = temp;            
+            fast = fast.next.next;
+            ListNode temp = slow.next;
+            slow.next = prev;
+            prev = slow;
+            slow = temp;
         }
 
-        return prev;
+        int res = 0;
+        while (slow != null) 
+        {
+            res = Math.max(res, prev.val + slow.val);
+            prev = prev.next;
+            slow = slow.next;
+        }
+
+        return res;
     }
 }
