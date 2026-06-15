@@ -1111,6 +1111,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gauravpawar47/Code-Knight/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/gauravpawar47/Code-Knight/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravpawar47/Code-Knight/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gauravpawar47/Code-Knight/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gauravpawar47/Code-Knight/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gauravpawar47/Code-Knight/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/gauravpawar47/Code-Knight/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -1696,6 +1697,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0328-odd-even-linked-list](https://github.com/gauravpawar47/Code-Knight/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/gauravpawar47/Code-Knight/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gauravpawar47/Code-Knight/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gauravpawar47/Code-Knight/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gauravpawar47/Code-Knight/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/gauravpawar47/Code-Knight/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gauravpawar47/Code-Knight/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
