@@ -722,6 +722,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1018-largest-perimeter-triangle](https://github.com/gauravpawar47/Code-Knight/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/gauravpawar47/Code-Knight/tree/master/1086-divisor-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/gauravpawar47/Code-Knight/tree/master/1266-minimum-time-visiting-all-points) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/gauravpawar47/Code-Knight/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/gauravpawar47/Code-Knight/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gauravpawar47/Code-Knight/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gauravpawar47/Code-Knight/tree/master/1421-find-numbers-with-even-number-of-digits) |
