@@ -412,6 +412,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gauravpawar47/Code-Knight/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1775-design-an-ordered-stream](https://github.com/gauravpawar47/Code-Knight/tree/master/1775-design-an-ordered-stream) |
 | [1813-maximum-erasure-value](https://github.com/gauravpawar47/Code-Knight/tree/master/1813-maximum-erasure-value) |
+| [1833-maximum-ice-cream-bars](https://github.com/gauravpawar47/Code-Knight/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/gauravpawar47/Code-Knight/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1840-maximum-building-height](https://github.com/gauravpawar47/Code-Knight/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/gauravpawar47/Code-Knight/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -1220,6 +1221,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/gauravpawar47/Code-Knight/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauravpawar47/Code-Knight/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/gauravpawar47/Code-Knight/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1833-maximum-ice-cream-bars](https://github.com/gauravpawar47/Code-Knight/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/gauravpawar47/Code-Knight/tree/master/1840-maximum-building-height) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravpawar47/Code-Knight/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1304,6 +1306,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/gauravpawar47/Code-Knight/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauravpawar47/Code-Knight/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauravpawar47/Code-Knight/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/gauravpawar47/Code-Knight/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/gauravpawar47/Code-Knight/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravpawar47/Code-Knight/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/gauravpawar47/Code-Knight/tree/master/1917-maximum-average-pass-ratio) |
@@ -1908,4 +1911,8 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2573-find-the-string-with-lcp](https://github.com/gauravpawar47/Code-Knight/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauravpawar47/Code-Knight/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/gauravpawar47/Code-Knight/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/gauravpawar47/Code-Knight/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
