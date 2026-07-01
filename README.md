@@ -512,6 +512,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2751-robot-collisions](https://github.com/gauravpawar47/Code-Knight/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/gauravpawar47/Code-Knight/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/gauravpawar47/Code-Knight/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2836-neither-minimum-nor-maximum](https://github.com/gauravpawar47/Code-Knight/tree/master/2836-neither-minimum-nor-maximum) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -679,6 +680,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/gauravpawar47/Code-Knight/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2573-find-the-string-with-lcp](https://github.com/gauravpawar47/Code-Knight/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/gauravpawar47/Code-Knight/tree/master/2625-increment-submatrices-by-one) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauravpawar47/Code-Knight/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gauravpawar47/Code-Knight/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -1082,6 +1084,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1970-last-day-where-you-can-still-cross](https://github.com/gauravpawar47/Code-Knight/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/gauravpawar47/Code-Knight/tree/master/2092-find-all-people-with-secret) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/gauravpawar47/Code-Knight/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/gauravpawar47/Code-Knight/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -1186,6 +1189,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2618-maximize-the-minimum-powered-city](https://github.com/gauravpawar47/Code-Knight/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/gauravpawar47/Code-Knight/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauravpawar47/Code-Knight/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gauravpawar47/Code-Knight/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1601,6 +1605,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2402-meeting-rooms-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/gauravpawar47/Code-Knight/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/2479-meeting-rooms-iii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauravpawar47/Code-Knight/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gauravpawar47/Code-Knight/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -1937,6 +1942,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/gauravpawar47/Code-Knight/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauravpawar47/Code-Knight/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/gauravpawar47/Code-Knight/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Counting Sort
