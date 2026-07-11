@@ -1,51 +1,53 @@
 class Solution 
 {
-    public void dfs(int i, Map<Integer, List<Integer>> adj, boolean[] visited, int[] info)
-    {
-        visited[i] = true;
-        info[0]++;
-        info[1] += adj.getOrDefault(i, new ArrayList<>()).size();
-
-        for(int ngbr : adj.getOrDefault(i, new ArrayList<>()))
-        {
-            if(!visited[ngbr])
-            {
-                dfs(ngbr, adj, visited, info);
-            }
-        }
-    } 
-
+    static int V, E;
     public int countCompleteComponents(int n, int[][] edges) 
     {
-        int result = 0;
-        HashMap<Integer, List<Integer>> adj = new HashMap<>();
+        ArrayList<Integer>[] A = new ArrayList[n];
+        Arrays.setAll(A, _ -> new ArrayList<>());
 
-        for(int[] edge : edges)
+        for (int[] e : edges) 
         {
-            int u = edge[0];
-            int v = edge[1];
-
-            adj.computeIfAbsent(u, k -> new ArrayList<>()).add(v);
-            adj.computeIfAbsent(v, k -> new ArrayList<>()).add(u);
+            A[e[0]].add(e[1]);
+            A[e[1]].add(e[0]);
         }
 
-        boolean[] visited = new boolean[n];
-        for(int i = 0; i < n; i++)
+        boolean[] vis = new boolean[n];
+        int res = 0;
+
+        for (int i = 0; i < n; i++) 
         {
-            if(visited[i])
+            boolean state = vis[i];
+            if (!state) 
             {
-                continue;
-            }
+                V = 0; 
+                E = 0;
 
-            int[] info = new int[2];
-            dfs(i, adj, visited, info);
+                dfs(i, A, vis);
 
-            if(info[0] * (info[0] - 1) == info[1])
-            {
-                result++;
+                if (E == V * (V - 1))
+                {
+                    res++;
+                } 
+                    
             }
         }
 
-        return result;
+        return res;
+    }
+
+    public void dfs(int x, List<Integer>[] A, boolean[] vis) 
+    {
+        V++;
+        E += A[x].size();
+        vis[x] = true;
+
+        for (int state : A[x])
+        {
+            if (!vis[state])
+            {
+                dfs(state, A, vis);
+            }
+        }
     }
 }
