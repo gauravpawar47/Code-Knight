@@ -646,6 +646,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gauravpawar47/Code-Knight/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauravpawar47/Code-Knight/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/gauravpawar47/Code-Knight/tree/master/3863-power-grid-maintenance) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4008-restore-finishing-order](https://github.com/gauravpawar47/Code-Knight/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/4058-compute-alternating-sum) |
 ## Matrix
@@ -832,6 +833,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gauravpawar47/Code-Knight/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauravpawar47/Code-Knight/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3859-maximum-product-of-two-digits](https://github.com/gauravpawar47/Code-Knight/tree/master/3859-maximum-product-of-two-digits) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1176,6 +1178,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/gauravpawar47/Code-Knight/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -1329,6 +1332,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gauravpawar47/Code-Knight/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/gauravpawar47/Code-Knight/tree/master/3748-sort-matrix-by-diagonals) |
 | [3859-maximum-product-of-two-digits](https://github.com/gauravpawar47/Code-Knight/tree/master/3859-maximum-product-of-two-digits) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/gauravpawar47/Code-Knight/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Greedy
 |  |
@@ -1450,6 +1454,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/gauravpawar47/Code-Knight/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4058-compute-alternating-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/4058-compute-alternating-sum) |
 ## Prefix Sum
 |  |
@@ -1525,6 +1530,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/gauravpawar47/Code-Knight/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gauravpawar47/Code-Knight/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
