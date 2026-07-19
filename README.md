@@ -49,6 +49,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1006-vowel-spellchecker](https://github.com/gauravpawar47/Code-Knight/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/gauravpawar47/Code-Knight/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/1078-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/gauravpawar47/Code-Knight/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gauravpawar47/Code-Knight/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/gauravpawar47/Code-Knight/tree/master/1189-maximum-number-of-balloons) |
 | [1250-longest-common-subsequence](https://github.com/gauravpawar47/Code-Knight/tree/master/1250-longest-common-subsequence) |
@@ -1352,6 +1353,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1018-largest-perimeter-triangle](https://github.com/gauravpawar47/Code-Knight/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/gauravpawar47/Code-Knight/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/gauravpawar47/Code-Knight/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/gauravpawar47/Code-Knight/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/gauravpawar47/Code-Knight/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/1382-balance-a-binary-search-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/gauravpawar47/Code-Knight/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -1867,6 +1869,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0234-palindrome-linked-list](https://github.com/gauravpawar47/Code-Knight/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/gauravpawar47/Code-Knight/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/1078-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/gauravpawar47/Code-Knight/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gauravpawar47/Code-Knight/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1628-count-submatrices-with-all-ones](https://github.com/gauravpawar47/Code-Knight/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/gauravpawar47/Code-Knight/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1954,6 +1957,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | ------- |
 | [0085-maximal-rectangle](https://github.com/gauravpawar47/Code-Knight/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/gauravpawar47/Code-Knight/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/gauravpawar47/Code-Knight/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/gauravpawar47/Code-Knight/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/gauravpawar47/Code-Knight/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Probability and Statistics
