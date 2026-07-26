@@ -346,6 +346,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0540-single-element-in-a-sorted-array](https://github.com/gauravpawar47/Code-Knight/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gauravpawar47/Code-Knight/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauravpawar47/Code-Knight/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gauravpawar47/Code-Knight/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/gauravpawar47/Code-Knight/tree/master/0679-24-game) |
 | [0692-top-k-frequent-words](https://github.com/gauravpawar47/Code-Knight/tree/master/0692-top-k-frequent-words) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/gauravpawar47/Code-Knight/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -746,6 +747,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0326-power-of-three](https://github.com/gauravpawar47/Code-Knight/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gauravpawar47/Code-Knight/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/gauravpawar47/Code-Knight/tree/master/0357-count-numbers-with-unique-digits) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gauravpawar47/Code-Knight/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/gauravpawar47/Code-Knight/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/gauravpawar47/Code-Knight/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/gauravpawar47/Code-Knight/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -1273,6 +1275,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0349-intersection-of-two-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravpawar47/Code-Knight/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauravpawar47/Code-Knight/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gauravpawar47/Code-Knight/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/gauravpawar47/Code-Knight/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/gauravpawar47/Code-Knight/tree/master/0720-longest-word-in-dictionary) |
 | [0759-set-intersection-size-at-least-two](https://github.com/gauravpawar47/Code-Knight/tree/master/0759-set-intersection-size-at-least-two) |
