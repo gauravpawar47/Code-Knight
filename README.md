@@ -340,6 +340,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0417-pacific-atlantic-water-flow](https://github.com/gauravpawar47/Code-Knight/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/gauravpawar47/Code-Knight/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gauravpawar47/Code-Knight/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/gauravpawar47/Code-Knight/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/gauravpawar47/Code-Knight/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/0494-target-sum) |
@@ -751,6 +752,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0326-power-of-three](https://github.com/gauravpawar47/Code-Knight/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gauravpawar47/Code-Knight/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/gauravpawar47/Code-Knight/tree/master/0357-count-numbers-with-unique-digits) |
+| [0486-predict-the-winner](https://github.com/gauravpawar47/Code-Knight/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauravpawar47/Code-Knight/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/gauravpawar47/Code-Knight/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/gauravpawar47/Code-Knight/tree/master/0728-self-dividing-numbers) |
@@ -876,6 +878,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0397-integer-replacement](https://github.com/gauravpawar47/Code-Knight/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/gauravpawar47/Code-Knight/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/gauravpawar47/Code-Knight/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/gauravpawar47/Code-Knight/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/gauravpawar47/Code-Knight/tree/master/0526-beautiful-arrangement) |
@@ -1929,6 +1932,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/gauravpawar47/Code-Knight/tree/master/0486-predict-the-winner) |
 | [1086-divisor-game](https://github.com/gauravpawar47/Code-Knight/tree/master/1086-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/gauravpawar47/Code-Knight/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
@@ -1941,6 +1945,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0234-palindrome-linked-list](https://github.com/gauravpawar47/Code-Knight/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/gauravpawar47/Code-Knight/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gauravpawar47/Code-Knight/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/gauravpawar47/Code-Knight/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gauravpawar47/Code-Knight/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
