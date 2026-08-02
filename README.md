@@ -364,6 +364,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0797-rabbits-in-forest](https://github.com/gauravpawar47/Code-Knight/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/gauravpawar47/Code-Knight/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/gauravpawar47/Code-Knight/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/gauravpawar47/Code-Knight/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/gauravpawar47/Code-Knight/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/gauravpawar47/Code-Knight/tree/master/0944-delete-columns-to-make-sorted) |
@@ -762,6 +763,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0826-soup-servings](https://github.com/gauravpawar47/Code-Knight/tree/master/0826-soup-servings) |
 | [0840-magic-squares-in-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/gauravpawar47/Code-Knight/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/gauravpawar47/Code-Knight/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/gauravpawar47/Code-Knight/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/gauravpawar47/Code-Knight/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/gauravpawar47/Code-Knight/tree/master/1018-largest-perimeter-triangle) |
@@ -891,6 +893,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0826-soup-servings](https://github.com/gauravpawar47/Code-Knight/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/gauravpawar47/Code-Knight/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/gauravpawar47/Code-Knight/tree/master/0868-push-dominoes) |
+| [0877-stone-game](https://github.com/gauravpawar47/Code-Knight/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/gauravpawar47/Code-Knight/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1086-divisor-game](https://github.com/gauravpawar47/Code-Knight/tree/master/1086-divisor-game) |
@@ -1933,6 +1936,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/gauravpawar47/Code-Knight/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/gauravpawar47/Code-Knight/tree/master/0877-stone-game) |
 | [1086-divisor-game](https://github.com/gauravpawar47/Code-Knight/tree/master/1086-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/gauravpawar47/Code-Knight/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
