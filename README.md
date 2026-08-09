@@ -386,6 +386,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/gauravpawar47/Code-Knight/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1127-last-stone-weight](https://github.com/gauravpawar47/Code-Knight/tree/master/1127-last-stone-weight) |
 | [1130-last-stone-weight-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1130-last-stone-weight-ii) |
+| [1140-stone-game-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/gauravpawar47/Code-Knight/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1260-shift-2d-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/1260-shift-2d-grid) |
@@ -774,6 +775,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1015-smallest-integer-divisible-by-k](https://github.com/gauravpawar47/Code-Knight/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/gauravpawar47/Code-Knight/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/gauravpawar47/Code-Knight/tree/master/1086-divisor-game) |
+| [1140-stone-game-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/gauravpawar47/Code-Knight/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/gauravpawar47/Code-Knight/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/gauravpawar47/Code-Knight/tree/master/1390-four-divisors) |
@@ -907,6 +909,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1086-divisor-game](https://github.com/gauravpawar47/Code-Knight/tree/master/1086-divisor-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/gauravpawar47/Code-Knight/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1130-last-stone-weight-ii) |
+| [1140-stone-game-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1140-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/gauravpawar47/Code-Knight/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/gauravpawar47/Code-Knight/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/gauravpawar47/Code-Knight/tree/master/1301-number-of-paths-with-max-score) |
@@ -1522,6 +1525,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0238-product-of-array-except-self](https://github.com/gauravpawar47/Code-Knight/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/gauravpawar47/Code-Knight/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/gauravpawar47/Code-Knight/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/gauravpawar47/Code-Knight/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/gauravpawar47/Code-Knight/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/gauravpawar47/Code-Knight/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -1955,6 +1959,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0486-predict-the-winner](https://github.com/gauravpawar47/Code-Knight/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/gauravpawar47/Code-Knight/tree/master/0877-stone-game) |
 | [1086-divisor-game](https://github.com/gauravpawar47/Code-Knight/tree/master/1086-divisor-game) |
+| [1140-stone-game-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/gauravpawar47/Code-Knight/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
@@ -2081,4 +2086,12 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/gauravpawar47/Code-Knight/tree/master/1833-maximum-ice-cream-bars) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
