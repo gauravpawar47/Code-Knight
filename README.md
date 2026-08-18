@@ -602,6 +602,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/gauravpawar47/Code-Knight/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/gauravpawar47/Code-Knight/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/gauravpawar47/Code-Knight/tree/master/3488-closest-equal-element-queries) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gauravpawar47/Code-Knight/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1104,6 +1105,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/gauravpawar47/Code-Knight/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gauravpawar47/Code-Knight/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gauravpawar47/Code-Knight/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/gauravpawar47/Code-Knight/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/gauravpawar47/Code-Knight/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gauravpawar47/Code-Knight/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
