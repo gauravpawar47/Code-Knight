@@ -77,6 +77,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gauravpawar47/Code-Knight/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/gauravpawar47/Code-Knight/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1899-count-items-matching-a-rule](https://github.com/gauravpawar47/Code-Knight/tree/master/1899-count-items-matching-a-rule) |
+| [1927-sum-game](https://github.com/gauravpawar47/Code-Knight/tree/master/1927-sum-game) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/gauravpawar47/Code-Knight/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gauravpawar47/Code-Knight/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/gauravpawar47/Code-Knight/tree/master/1980-find-unique-binary-string) |
@@ -814,6 +815,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1840-maximum-building-height](https://github.com/gauravpawar47/Code-Knight/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/gauravpawar47/Code-Knight/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/gauravpawar47/Code-Knight/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gauravpawar47/Code-Knight/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/gauravpawar47/Code-Knight/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/gauravpawar47/Code-Knight/tree/master/2032-largest-odd-number-in-string) |
@@ -1449,6 +1451,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1834-minimum-number-of-people-to-teach](https://github.com/gauravpawar47/Code-Knight/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravpawar47/Code-Knight/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/gauravpawar47/Code-Knight/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/gauravpawar47/Code-Knight/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/gauravpawar47/Code-Knight/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/gauravpawar47/Code-Knight/tree/master/2032-largest-odd-number-in-string) |
@@ -1996,6 +1999,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1140-stone-game-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/gauravpawar47/Code-Knight/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/gauravpawar47/Code-Knight/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/gauravpawar47/Code-Knight/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/gauravpawar47/Code-Knight/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
