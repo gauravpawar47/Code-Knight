@@ -482,6 +482,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2054-two-best-non-overlapping-events](https://github.com/gauravpawar47/Code-Knight/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/gauravpawar47/Code-Knight/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/gauravpawar47/Code-Knight/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/gauravpawar47/Code-Knight/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauravpawar47/Code-Knight/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1468,6 +1469,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2029-stone-game-ix](https://github.com/gauravpawar47/Code-Knight/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/gauravpawar47/Code-Knight/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/gauravpawar47/Code-Knight/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/gauravpawar47/Code-Knight/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2126-destroying-asteroids](https://github.com/gauravpawar47/Code-Knight/tree/master/2126-destroying-asteroids) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauravpawar47/Code-Knight/tree/master/2140-longest-subsequence-repeated-k-times) |
