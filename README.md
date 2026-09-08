@@ -910,6 +910,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauravpawar47/Code-Knight/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3859-maximum-product-of-two-digits](https://github.com/gauravpawar47/Code-Knight/tree/master/3859-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3870-count-commas-in-range](https://github.com/gauravpawar47/Code-Knight/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
