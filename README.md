@@ -381,6 +381,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0792-binary-search](https://github.com/gauravpawar47/Code-Knight/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/gauravpawar47/Code-Knight/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/gauravpawar47/Code-Knight/tree/master/0797-rabbits-in-forest) |
+| [0835-image-overlap](https://github.com/gauravpawar47/Code-Knight/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/gauravpawar47/Code-Knight/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/gauravpawar47/Code-Knight/tree/master/0877-stone-game) |
@@ -726,6 +727,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0498-diagonal-traverse](https://github.com/gauravpawar47/Code-Knight/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/0777-toeplitz-matrix) |
 | [0794-swim-in-rising-water](https://github.com/gauravpawar47/Code-Knight/tree/master/0794-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/gauravpawar47/Code-Knight/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/0840-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/gauravpawar47/Code-Knight/tree/master/0945-snakes-and-ladders) |
 | [1260-shift-2d-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/1260-shift-2d-grid) |
