@@ -2250,6 +2250,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gauravpawar47/Code-Knight/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gauravpawar47/Code-Knight/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
