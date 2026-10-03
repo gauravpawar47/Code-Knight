@@ -13,6 +13,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0020-valid-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/gauravpawar47/Code-Knight/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/gauravpawar47/Code-Knight/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/gauravpawar47/Code-Knight/tree/master/0067-add-binary) |
@@ -948,6 +949,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gauravpawar47/Code-Knight/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/gauravpawar47/Code-Knight/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/gauravpawar47/Code-Knight/tree/master/0085-maximal-rectangle) |
@@ -2061,6 +2063,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/gauravpawar47/Code-Knight/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/gauravpawar47/Code-Knight/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/gauravpawar47/Code-Knight/tree/master/0225-implement-stack-using-queues) |
@@ -2255,6 +2258,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | ------- |
 | [0020-valid-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gauravpawar47/Code-Knight/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gauravpawar47/Code-Knight/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
