@@ -33,6 +33,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0482-license-key-formatting](https://github.com/gauravpawar47/Code-Knight/tree/master/0482-license-key-formatting) |
 | [0516-longest-palindromic-subsequence](https://github.com/gauravpawar47/Code-Knight/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/gauravpawar47/Code-Knight/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/gauravpawar47/Code-Knight/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/gauravpawar47/Code-Knight/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/gauravpawar47/Code-Knight/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -968,6 +969,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0494-target-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/gauravpawar47/Code-Knight/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/gauravpawar47/Code-Knight/tree/master/0526-beautiful-arrangement) |
+| [0678-valid-parenthesis-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/gauravpawar47/Code-Knight/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0730-count-different-palindromic-subsequences](https://github.com/gauravpawar47/Code-Knight/tree/master/0730-count-different-palindromic-subsequences) |
 | [0747-min-cost-climbing-stairs](https://github.com/gauravpawar47/Code-Knight/tree/master/0747-min-cost-climbing-stairs) |
@@ -1507,6 +1509,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0011-container-with-most-water](https://github.com/gauravpawar47/Code-Knight/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/gauravpawar47/Code-Knight/tree/master/0135-candy) |
 | [0397-integer-replacement](https://github.com/gauravpawar47/Code-Knight/tree/master/0397-integer-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/gauravpawar47/Code-Knight/tree/master/0759-set-intersection-size-at-least-two) |
 | [0797-rabbits-in-forest](https://github.com/gauravpawar47/Code-Knight/tree/master/0797-rabbits-in-forest) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -2070,6 +2073,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0232-implement-queue-using-stacks](https://github.com/gauravpawar47/Code-Knight/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/gauravpawar47/Code-Knight/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/gauravpawar47/Code-Knight/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gauravpawar47/Code-Knight/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1096-brace-expansion-ii) |
@@ -2259,6 +2263,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0020-valid-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gauravpawar47/Code-Knight/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gauravpawar47/Code-Knight/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
