@@ -543,6 +543,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2331-intersection-of-multiple-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/gauravpawar47/Code-Knight/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2350-find-closest-number-to-zero](https://github.com/gauravpawar47/Code-Knight/tree/master/2350-find-closest-number-to-zero) |
 | [2378-sender-with-largest-word-count](https://github.com/gauravpawar47/Code-Knight/tree/master/2378-sender-with-largest-word-count) |
@@ -1373,6 +1374,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/gauravpawar47/Code-Knight/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gauravpawar47/Code-Knight/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/gauravpawar47/Code-Knight/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gauravpawar47/Code-Knight/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gauravpawar47/Code-Knight/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/gauravpawar47/Code-Knight/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -1462,6 +1464,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/gauravpawar47/Code-Knight/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/gauravpawar47/Code-Knight/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2331-intersection-of-multiple-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/gauravpawar47/Code-Knight/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravpawar47/Code-Knight/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gauravpawar47/Code-Knight/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/2402-meeting-rooms-iii) |
@@ -1560,6 +1563,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/gauravpawar47/Code-Knight/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gauravpawar47/Code-Knight/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/gauravpawar47/Code-Knight/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravpawar47/Code-Knight/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/gauravpawar47/Code-Knight/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gauravpawar47/Code-Knight/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1863,6 +1867,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/gauravpawar47/Code-Knight/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/gauravpawar47/Code-Knight/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/gauravpawar47/Code-Knight/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/gauravpawar47/Code-Knight/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/2479-meeting-rooms-iii) |
