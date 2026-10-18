@@ -266,6 +266,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauravpawar47/Code-Knight/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/gauravpawar47/Code-Knight/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/gauravpawar47/Code-Knight/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -322,6 +323,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauravpawar47/Code-Knight/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/gauravpawar47/Code-Knight/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/gauravpawar47/Code-Knight/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
@@ -459,6 +461,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/gauravpawar47/Code-Knight/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/gauravpawar47/Code-Knight/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauravpawar47/Code-Knight/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gauravpawar47/Code-Knight/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/gauravpawar47/Code-Knight/tree/master/1590-make-sum-divisible-by-p) |
@@ -862,6 +865,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/gauravpawar47/Code-Knight/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gauravpawar47/Code-Knight/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1563-stone-game-v](https://github.com/gauravpawar47/Code-Knight/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauravpawar47/Code-Knight/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gauravpawar47/Code-Knight/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/gauravpawar47/Code-Knight/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/gauravpawar47/Code-Knight/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -1013,6 +1017,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1458-max-dot-product-of-two-subsequences](https://github.com/gauravpawar47/Code-Knight/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/gauravpawar47/Code-Knight/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauravpawar47/Code-Knight/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gauravpawar47/Code-Knight/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gauravpawar47/Code-Knight/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gauravpawar47/Code-Knight/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -1734,6 +1739,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauravpawar47/Code-Knight/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gauravpawar47/Code-Knight/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/gauravpawar47/Code-Knight/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -1961,6 +1967,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0493-reverse-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/0493-reverse-pairs) |
 | [0761-special-binary-string](https://github.com/gauravpawar47/Code-Knight/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauravpawar47/Code-Knight/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/gauravpawar47/Code-Knight/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -1998,6 +2005,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauravpawar47/Code-Knight/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1382-balance-a-binary-search-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauravpawar47/Code-Knight/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Data Stream
 |  |
 | ------- |
@@ -2076,6 +2084,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | ------- |
 | [0139-word-break](https://github.com/gauravpawar47/Code-Knight/tree/master/0139-word-break) |
 | [0397-integer-replacement](https://github.com/gauravpawar47/Code-Knight/tree/master/0397-integer-replacement) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauravpawar47/Code-Knight/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/gauravpawar47/Code-Knight/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/gauravpawar47/Code-Knight/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/gauravpawar47/Code-Knight/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -2269,6 +2278,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauravpawar47/Code-Knight/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gauravpawar47/Code-Knight/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/gauravpawar47/Code-Knight/tree/master/2573-find-the-string-with-lcp) |
 | [2685-count-the-number-of-complete-components](https://github.com/gauravpawar47/Code-Knight/tree/master/2685-count-the-number-of-complete-components) |
@@ -2311,4 +2321,8 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gauravpawar47/Code-Knight/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gauravpawar47/Code-Knight/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gauravpawar47/Code-Knight/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauravpawar47/Code-Knight/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
