@@ -294,6 +294,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0871-keys-and-rooms](https://github.com/gauravpawar47/Code-Knight/tree/master/0871-keys-and-rooms) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gauravpawar47/Code-Knight/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/gauravpawar47/Code-Knight/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauravpawar47/Code-Knight/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -428,6 +429,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [1140-stone-game-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/gauravpawar47/Code-Knight/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/gauravpawar47/Code-Knight/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1254-number-of-closed-islands](https://github.com/gauravpawar47/Code-Knight/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/gauravpawar47/Code-Knight/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/gauravpawar47/Code-Knight/tree/master/1266-minimum-time-visiting-all-points) |
@@ -771,6 +773,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0835-image-overlap](https://github.com/gauravpawar47/Code-Knight/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/0840-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/gauravpawar47/Code-Knight/tree/master/0945-snakes-and-ladders) |
+| [1254-number-of-closed-islands](https://github.com/gauravpawar47/Code-Knight/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/gauravpawar47/Code-Knight/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/gauravpawar47/Code-Knight/tree/master/1301-number-of-paths-with-max-score) |
@@ -1279,6 +1282,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [0945-snakes-and-ladders](https://github.com/gauravpawar47/Code-Knight/tree/master/0945-snakes-and-ladders) |
 | [1096-brace-expansion-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauravpawar47/Code-Knight/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/gauravpawar47/Code-Knight/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/gauravpawar47/Code-Knight/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -2285,6 +2289,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/gauravpawar47/Code-Knight/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauravpawar47/Code-Knight/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
