@@ -724,6 +724,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/gauravpawar47/Code-Knight/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gauravpawar47/Code-Knight/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/gauravpawar47/Code-Knight/tree/master/3665-twisted-mirror-path-count) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/gauravpawar47/Code-Knight/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -833,6 +834,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3643-flip-square-submatrix-vertically](https://github.com/gauravpawar47/Code-Knight/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/gauravpawar47/Code-Knight/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/gauravpawar47/Code-Knight/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3665-twisted-mirror-path-count](https://github.com/gauravpawar47/Code-Knight/tree/master/3665-twisted-mirror-path-count) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/gauravpawar47/Code-Knight/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/gauravpawar47/Code-Knight/tree/master/3748-sort-matrix-by-diagonals) |
@@ -1098,6 +1100,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3651-minimum-cost-path-with-teleportations](https://github.com/gauravpawar47/Code-Knight/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/gauravpawar47/Code-Knight/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gauravpawar47/Code-Knight/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/gauravpawar47/Code-Knight/tree/master/3665-twisted-mirror-path-count) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/gauravpawar47/Code-Knight/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
