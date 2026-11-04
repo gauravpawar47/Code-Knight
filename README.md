@@ -673,6 +673,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gauravpawar47/Code-Knight/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauravpawar47/Code-Knight/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gauravpawar47/Code-Knight/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -950,6 +951,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3433-count-mentions-per-user](https://github.com/gauravpawar47/Code-Knight/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/gauravpawar47/Code-Knight/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/gauravpawar47/Code-Knight/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauravpawar47/Code-Knight/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gauravpawar47/Code-Knight/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -1092,6 +1094,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gauravpawar47/Code-Knight/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gauravpawar47/Code-Knight/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauravpawar47/Code-Knight/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/gauravpawar47/Code-Knight/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -1243,6 +1246,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3488-closest-equal-element-queries](https://github.com/gauravpawar47/Code-Knight/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gauravpawar47/Code-Knight/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauravpawar47/Code-Knight/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -1832,6 +1836,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gauravpawar47/Code-Knight/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/gauravpawar47/Code-Knight/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauravpawar47/Code-Knight/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/gauravpawar47/Code-Knight/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1936,6 +1941,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauravpawar47/Code-Knight/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gauravpawar47/Code-Knight/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauravpawar47/Code-Knight/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
