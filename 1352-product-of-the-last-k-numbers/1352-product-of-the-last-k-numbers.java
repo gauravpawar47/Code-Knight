@@ -1,29 +1,22 @@
-class ProductOfNumbers
+class ProductOfNumbers 
 {
-    ArrayList<Integer> list;
-    public ProductOfNumbers()
-    {   
-        list = new ArrayList<>();
+    List<Integer> a = new ArrayList<>();
+
+    public ProductOfNumbers() {}
+
+    public void add(int num) 
+    {
+        a.add(num);
     }
 
-    public void add(int num)
+    public int getProduct(int k) 
     {
-        list.add(num);
-    }
-
-    public int getProduct(int k)
-    {
-        if (k > list.size())
+        int n = a.size();
+        int prod = 1;
+        for (int i = n - k; i < n; i++)
         {
-            return 0;
+            prod *= a.get(i);
         }
-
-        int product = 1;
-        for (int i = list.size() - k; i < list.size(); i++)
-        {
-            product *= list.get(i);
-        }
-        
-        return product;
+        return prod;
     }
 }
