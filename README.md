@@ -785,6 +785,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3882-minimum-xor-path-in-a-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/gauravpawar47/Code-Knight/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/gauravpawar47/Code-Knight/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4008-restore-finishing-order](https://github.com/gauravpawar47/Code-Knight/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/4058-compute-alternating-sum) |
@@ -1314,6 +1315,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3863-power-grid-maintenance](https://github.com/gauravpawar47/Code-Knight/tree/master/3863-power-grid-maintenance) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/gauravpawar47/Code-Knight/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gauravpawar47/Code-Knight/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3934-smallest-unique-subarray](https://github.com/gauravpawar47/Code-Knight/tree/master/3934-smallest-unique-subarray) |
 | [4008-restore-finishing-order](https://github.com/gauravpawar47/Code-Knight/tree/master/4008-restore-finishing-order) |
 ## Bitmask
 |  |
@@ -1491,6 +1493,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gauravpawar47/Code-Knight/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3791-fruits-into-baskets-iii](https://github.com/gauravpawar47/Code-Knight/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/gauravpawar47/Code-Knight/tree/master/3827-implement-router) |
+| [3934-smallest-unique-subarray](https://github.com/gauravpawar47/Code-Knight/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -2328,6 +2331,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gauravpawar47/Code-Knight/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/gauravpawar47/Code-Knight/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3934-smallest-unique-subarray](https://github.com/gauravpawar47/Code-Knight/tree/master/3934-smallest-unique-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -2380,6 +2384,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gauravpawar47/Code-Knight/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3934-smallest-unique-subarray](https://github.com/gauravpawar47/Code-Knight/tree/master/3934-smallest-unique-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -2434,4 +2439,8 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauravpawar47/Code-Knight/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/gauravpawar47/Code-Knight/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
