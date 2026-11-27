@@ -787,6 +787,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3904-smallest-stable-index-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/gauravpawar47/Code-Knight/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/gauravpawar47/Code-Knight/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4008-restore-finishing-order](https://github.com/gauravpawar47/Code-Knight/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/gauravpawar47/Code-Knight/tree/master/4058-compute-alternating-sum) |
 ## Matrix
@@ -1146,6 +1147,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/gauravpawar47/Code-Knight/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauravpawar47/Code-Knight/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/gauravpawar47/Code-Knight/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1707,6 +1709,7 @@ Embark on a warrior's path 🛡️⚔️ to algorithmic mastery with CodeKnight.
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gauravpawar47/Code-Knight/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/gauravpawar47/Code-Knight/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/gauravpawar47/Code-Knight/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/gauravpawar47/Code-Knight/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Simulation
 |  |
 | ------- |
